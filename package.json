@@ -8,7 +8,7 @@
   "scripts": {
     "start": "node ./bin/www",
     "build": "npm install && npm run prepare",
-     "prepare": "npm run build"
+     "prepare": "echo 'Nothing to prepare'"
   },
   "dependencies": {
     "@google/generative-ai": "^0.24.1",
