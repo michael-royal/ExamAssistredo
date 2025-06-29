@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<%- include('./partials/head.ejs') %>
+<body>
+<%- include('./partials/preloader.ejs') %>
+
+<%- include('./partials/authheader.ejs') %>
+
+    
+ <main class="py-4">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <div class="card border-0 shadow-sm">
+                        <div class="card-header bg-transparent">
+                            <h3 class="mb-0"><i class="bi bi-plus-circle me-2"></i>Write a review</h3>
+                        </div>
+                        <div class="card-body p-4">
+                            <form id="postForm" action="/reviews" method="post">
+                                <div class="mb-3">
+                                    <label for="postTitle" class="form-label">Name</label>
+                                    <input type="text" class="form-control" name="userName" id="postTitle" placeholder="Enter a descriptive title..." required>
+                                </div>
+                                
+                                <div class="mb-3">
+                                    <label for="postContent" class="form-label">Content</label>
+                                    <textarea class="form-control" id="postContent" name="reviewContent" rows="8" placeholder="Share your thoughts, questions, or study tips with the community..." required></textarea>
+                                </div>
+
+                               
+                               
+                                
+                                <div class="d-flex justify-content-between">
+                                    <a href="/reviews" class="btn btn-outline-secondary">
+                                        <i class="bi bi-arrow-left me-1"></i>Back to Reviews
+                                    </a>
+                                    <button type="submit" class="btn btn-primary">
+                                        <i class="bi bi-send me-1"></i>Post Review
+                                    </button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+
+<%- include('./partials/scripts.ejs') %>
+</body>
+</html>

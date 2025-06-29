@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<%- include('./partials/head.ejs') %>
+<body>
+<%- include('./partials/preloader.ejs') %>
+    
+<%- include('./partials/authheader.ejs') %>
+
+    <main class="py-4">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="d-flex justify-content-between align-items-center mb-4">
+                        <h2><i class="bi bi-people me-2"></i>All Users</h2>
+
+                    </div>
+
+                    <!-- Posts Feed -->
+                    <div id="reviewFeed">
+                        <!-- Posts will be loaded here -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+
+    <script>
+        const feed = document.getElementById('reviewFeed')
+
+       fetch('http://localhost:8080/allUsers')
+  .then(res => res.json())
+  .then(data => {
+    data.forEach(dat => {
+      console.log(dat)
+    
+ const base64Image = dat.profilepic.data.toString('base64');
+        const mimeType = dat.mimetype; // e.g., "image/png"
+
+        const dataUrl = `data:${mimeType};base64,${base64Image}`;
+      feed.innerHTML += `
+        <div class="card mb-4 border-0 shadow-sm">
+          <div class="card-body">
+            <div class="d-flex align-items-start mb-3">
+              <div class="row">
+               <div class="col-md-3"><img class="profile-avatar" src="${dataUrl}"></div>
+              <div class="col-md-6">
+                 <h5 class="card-title mb-0">${dat.name}</h5>
+                <small class="text-muted">${dat.email}</small>
+                <small class="text-muted">${dat.phone}</small>
+                <small class="text-muted">${dat.department}</small>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      `;
+    });
+  });
+
+    </script>
+
+
+<%- include('./partials/scripts.ejs') %>
+</body>
+</html>

@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<%- include('./partials/head.ejs') %>
+<body>
+
+<%- include('./partials/preloader.ejs') %>
+
+
+<%- include('./partials/authheader.ejs') %>
+
+<main class="py-4">
+  <div class="container">
+    <!-- Quiz Setup -->
+    <div id="quizSetup" class="row justify-content-center">
+      <div class="col-lg-8">
+        <div class="card border-0 shadow-sm">
+          <div class="card-header bg-transparent">
+            <h3 class="mb-0"><i class="bi bi-play-circle me-2"></i>Start New Quiz</h3>
+          </div>
+          <div class="card-body p-4">
+            <form id="setupForm" style="display: grid; place-items: center;">
+              <div class="col-md-6 mb-3">
+                <label for="courseSelect" class="form-label">Course</label>
+                <select class="form-select w-100" id="courseSelect" required>
+                  <option value="">Select Course</option>
+                  <option value="Maths101">Maths 101</option>
+                  <option value="Maths102">Maths 102</option>
+                  <option value="Physics101">Physics 101</option>
+                  <option value="Physics102">Physics 102</option>
+                  <option value="Bio101">Biology 101</option>
+                  <option value="Bio102">Biology 102</option>
+                  <option value="Chem101">Chemistry 101</option>
+                  <option value="Chem102">Chemistry 102</option>
+                </select>
+              </div>
+
+              <div class="col-md-6 mb-3">
+                <label for="questionCount" class="form-label">Number of Questions</label>
+                <select class="form-select" id="questionCount">
+                  <option value="20">20 Questions</option>
+                  <option value="25" selected>25 Questions</option>
+                  <option value="30">30 Questions</option>
+                  <option value="35">35 Questions</option>
+                  <option value="40">40 Questions</option>
+                  <option value="45">45 Questions</option>
+                  <option value="50">50 Questions</option>
+                </select>
+              </div>
+              <div class="col-md-6 mb-3">
+                <label for="timeLimit" class="form-label">Time Limit</label>
+                <select class="form-select" id="timeLimit">
+                  <option value="10">10 Minutes</option>
+                  <option value="15" selected>15 Minutes</option>
+                  <option value="30">30 Minutes</option>
+                  <option value="35">35 Minutes</option>
+                </select>
+              </div>
+
+              <div class="text-center">
+                <button type="submit" class="btn btn-primary btn-lg">
+                  <i class="bi bi-play-fill me-2"></i>Start Quiz
+                </button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Quiz Interface -->
+    <div id="quizInterface" class="d-none">
+      <div class="quiz-timer mb-4" id="timer">
+        <i class="bi bi-clock me-2"></i>
+        <span id="timeRemaining">15:00</span>
+      </div>
+
+      <div class="card mb-4 border-0 shadow-sm">
+        <div class="card-body">
+          <div class="d-flex justify-content-between align-items-center mb-2">
+            <span>Progress</span>
+            <span id="progressText">1 of 10</span>
+          </div>
+          <div class="progress">
+            <div class="progress-bar" id="progressBar" role="progressbar" style="width: 10%"></div>
+          </div>
+        </div>
+      </div>
+
+      <div class="card mb-4 border-0 shadow-sm">
+        <div class="card-body">
+          <h4 id="questionText">Question will appear here</h4>
+          <div id="answerOptions" class="mt-4">
+            <!-- Options will be dynamically loaded -->
+          </div>
+        </div>
+      </div>
+
+      <div class="d-flex justify-content-between">
+        <button class="btn btn-outline-secondary" id="prevBtn" disabled>
+          <i class="bi bi-arrow-left me-1"></i>Previous
+        </button>
+        <button class="btn btn-primary" id="nextBtn">
+          Next<i class="bi bi-arrow-right ms-1"></i>
+        </button>
+        <button class="btn btn-success d-none" id="submitBtn">
+          <i class="bi bi-check-circle me-1"></i>Submit Quiz
+        </button>
+      </div>
+    </div>
+
+    <!-- Results -->
+    <div id="quizResults" class="d-none">
+      <div class="row justify-content-center">
+        <div class="col-lg-8">
+          <div class="card border-0 shadow-sm">
+            <div class="card-header bg-transparent text-center">
+              <h3 class="mb-0"><i class="bi bi-trophy me-2"></i>Quiz Results</h3>
+            </div>
+            <div class="card-body p-4 text-center">
+              <div class="mb-4">
+                <p class="lead" id="scoreDescription">Your performance summary will appear here</p>
+              </div>
+
+              <div class="row text-center mb-4">
+                <div class="col-3">
+                  <div class="h5 text-success mb-1" id="correctAnswers">0</div>
+                  <small class="text-muted">Correct</small>
+                </div>
+                <div class="col-3">
+                  <div class="h5 text-danger mb-1" id="wrongAnswers">0</div>
+                  <small class="text-muted">Wrong</small>
+                </div>
+                <div class="col-3">
+                  <div class="h5 text-warning mb-1" id="finalScore">0%</div>
+                  <small class="text-muted">Score</small>
+                </div>
+                <div class="col-3">
+                  <div class="h5 text-warning mb-1" id="timeUsed">0%</div>
+                  <small class="text-muted">Score</small>
+                </div>
+              </div>
+
+              <div class="d-flex justify-content-center gap-3">
+                <button class="btn btn-primary" id="restartQuiz">
+                  <i class="bi bi-arrow-clockwise me-1"></i>Take Another Quiz
+                </button>
+                <a href="/dashboard" class="btn btn-outline-secondary">
+                  <i class="bi bi-house me-1"></i>Back to Dashboard
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</main>
+
+
+
+<%- include('./partials/scripts.ejs') %>
+
+    <script src="/javascript/quiz.js"></script>
+
+</body>
+</html>

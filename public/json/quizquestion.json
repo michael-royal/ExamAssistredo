@@ -1,0 +1,4239 @@
+{
+  "Bio101": [
+    {
+      "question": "What is the primary function of the mitochondria?",
+      "options": [
+        "a) Protein synthesis",
+        "b) Energy production",
+        "c) Detoxification",
+        "d) Genetic information storage"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which structure controls the movement of substances into and out of the cell?",
+      "options": [
+        "a) Mitochondrion",
+        "b) Cell membrane",
+        "c) Nucleus",
+        "d) Ribosome"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which organelle is responsible for protein synthesis?",
+      "options": [
+        "a) Golgi apparatus",
+        "b) Ribosome",
+        "c) Nucleolus",
+        "d) Endoplasmic reticulum"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Where does DNA replication occur in eukaryotic cells?",
+      "options": [
+        "a) Cytoplasm",
+        "b) Nucleus",
+        "c) Mitochondrion",
+        "d) Ribosome"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the role of lysosomes in a cell?",
+      "options": [
+        "a) Energy production",
+        "b) Synthesis of lipids",
+        "c) Digestive enzymes for breaking down waste",
+        "d) Storage of genetic material"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of prokaryotic cells?",
+      "options": [
+        "a) No nucleus",
+        "b) Presence of mitochondria",
+        "c) Circular DNA",
+        "d) Smaller size"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the fluid mosaic model related to?",
+      "options": [
+        "a) Structure of DNA",
+        "b) Structure of the cell membrane",
+        "c) Structure of ribosomes",
+        "d) Function of mitochondria"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is involved in the process of cellular respiration?",
+      "options": [
+        "a) Ribosomes",
+        "b) Mitochondria",
+        "c) Nucleus",
+        "d) Chloroplasts"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the main function of the Golgi apparatus?",
+      "options": [
+        "a) Production of energy",
+        "b) Protein modification and packaging",
+        "c) Storage of water",
+        "d) Synthesis of proteins"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which structure is responsible for maintaining cell shape in plant cells?",
+      "options": [
+        "a) Plasma membrane",
+        "b) Cell wall",
+        "c) Cytoplasm",
+        "d) Mitochondria"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which molecule is the primary carrier of genetic information?",
+      "options": [
+        "a) RNA",
+        "b) Protein",
+        "c) DNA",
+        "d) Carbohydrates"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which type of cell division results in the formation of gametes?",
+      "options": [
+        "a) Mitosis",
+        "b) Meiosis",
+        "c) Binary fission",
+        "d) Cytokinesis"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the site of protein synthesis in a cell?",
+      "options": [
+        "a) Nucleus",
+        "b) Ribosomes",
+        "c) Mitochondria",
+        "d) Golgi apparatus"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a characteristic of eukaryotic cells?",
+      "options": [
+        "a) No nucleus",
+        "b) Lack of membrane-bound organelles",
+        "c) Presence of mitochondria",
+        "d) Circular DNA"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the term for the division of the cytoplasm during cell division?",
+      "options": [
+        "a) Mitosis",
+        "b) Cytokinesis",
+        "c) Meiosis",
+        "d) Telophase"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following best describes an allele?",
+      "options": [
+        "a) A type of mutation",
+        "b) A variant form of a gene",
+        "c) A segment of RNA",
+        "d) A type of protein"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the shape of the DNA molecule?",
+      "options": [
+        "a) Helical",
+        "b) Circular",
+        "c) Linear",
+        "d) Spiral"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which type of RNA carries the genetic information from the DNA to the ribosome?",
+      "options": [
+        "a) mRNA",
+        "b) tRNA",
+        "c) rRNA",
+        "d) siRNA"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the process by which cells develop into specialized forms?",
+      "options": [
+        "a) Differentiation",
+        "b) Apoptosis",
+        "c) Metamorphosis",
+        "d) Mitosis"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is a principle of natural selection?",
+      "options": [
+        "a) Variation exists among individuals",
+        "b) All organisms are equally fit",
+        "c) Evolution occurs at a constant rate",
+        "d) The environment does not influence survival"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which scientist is credited with the theory of evolution by natural selection?",
+      "options": [
+        "a) Gregor Mendel",
+        "b) Charles Darwin",
+        "c) Louis Pasteur",
+        "d) Alfred Wallace"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the term for the gradual change in species over time?",
+      "options": [
+        "a) Adaptation",
+        "b) Evolution",
+        "c) Mutation",
+        "d) Speciation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the term for a change in the DNA sequence that can lead to a genetic variation?",
+      "options": [
+        "a) Mutation",
+        "b) Adaptation",
+        "c) Cross-over",
+        "d) Natural selection"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an example of a vestigial structure?",
+      "options": [
+        "a) Human appendix",
+        "b) Human leg muscles",
+        "c) Bat wings",
+        "d) Whale fins"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the primary mechanism by which new species arise?",
+      "options": [
+        "a) Genetic drift",
+        "b) Natural selection",
+        "c) Isolation and reproduction barriers",
+        "d) Gene flow"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is true about inherited traits?",
+      "options": [
+        "a) They are determined by environmental factors",
+        "b) They are inherited from both parents",
+        "c) They are determined solely by the mother",
+        "d) They are not influenced by mutations"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the law of independent assortment?",
+      "options": [
+        "a) Genes for different traits segregate independently of each other",
+        "b) Traits are passed on together",
+        "c) Alleles always separate in pairs",
+        "d) One allele is dominant over another"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following best describes a homozygous genotype?",
+      "options": [
+        "a) Two different alleles for a gene",
+        "b) Two identical alleles for a gene",
+        "c) One dominant and one recessive allele",
+        "d) One allele for a dominant trait"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the phenotype of an organism?",
+      "options": [
+        "a) The genetic makeup",
+        "b) The physical appearance",
+        "c) The type of allele",
+        "d) The number of chromosomes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is the result of genetic recombination?",
+      "options": [
+        "a) Identical offspring",
+        "b) New combinations of alleles",
+        "c) Same genotype",
+        "d) Reduced genetic variation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the term for the physical location of a gene on a chromosome?",
+      "options": [
+        "a) Allele",
+        "b) Locus",
+        "c) Chromatid",
+        "d) Gene pool"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which type of genetic mutation involves the insertion of an extra base into a gene?",
+      "options": [
+        "a) Deletion",
+        "b) Insertion",
+        "c) Substitution",
+        "d) Frameshift"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the study of heredity and the variation of inherited characteristics called?",
+      "options": [
+        "a) Ecology",
+        "b) Genetics",
+        "c) Evolutionary biology",
+        "d) Immunology"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the primary function of the mitochondria?",
+      "options": [
+        "a) Protein synthesis",
+        "b) Energy production",
+        "c) Detoxification",
+        "d) Genetic information storage"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which structure controls the movement of substances into and out of the cell?",
+      "options": [
+        "a) Mitochondrion",
+        "b) Cell membrane",
+        "c) Nucleus",
+        "d) Ribosome"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Where does DNA replication occur in eukaryotic cells?",
+      "options": [
+        "a) Cytoplasm",
+        "b) Nucleus",
+        "c) Mitochondrion",
+        "d) Ribosome"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the role of lysosomes in a cell?",
+      "options": [
+        "a) Energy production",
+        "b) Synthesis of lipids",
+        "c) Digestive enzymes for breaking down waste",
+        "d) Storage of genetic material"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of prokaryotic cells?",
+      "options": [
+        "a) No nucleus",
+        "b) Presence of mitochondria",
+        "c) Circular DNA",
+        "d) Smaller size"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which scientist is credited with the theory of evolution by natural selection?",
+      "options": [
+        "a) Gregor Mendel",
+        "b) Charles Darwin",
+        "c) Louis Pasteur",
+        "d) Alfred Wallace"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the term for the gradual change in species over time?",
+      "options": [
+        "a) Adaptation",
+        "b) Evolution",
+        "c) Mutation",
+        "d) Speciation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the primary mechanism by which new species arise?",
+      "options": [
+        "a) Genetic drift",
+        "b) Natural selection",
+        "c) Isolation and reproduction barriers",
+        "d) Gene flow"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the law of independent assortment?",
+      "options": [
+        "a) Genes for different traits segregate independently of each other",
+        "b) Traits are passed on together",
+        "c) Alleles always separate in pairs",
+        "d) One allele is dominant over another"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following best describes a homozygous genotype?",
+      "options": [
+        "a) Two different alleles for a gene",
+        "b) Two identical alleles for a gene",
+        "c) One dominant and one recessive allele",
+        "d) One allele for a dominant trait"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the phenotype of an organism?",
+      "options": [
+        "a) The genetic makeup",
+        "b) The physical appearance",
+        "c) The type of allele",
+        "d) The number of chromosomes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the term for a change in the DNA sequence that can lead to a genetic variation?",
+      "options": [
+        "a) Mutation",
+        "b) Adaptation",
+        "c) Cross-over",
+        "d) Natural selection"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is an example of a vestigial structure?",
+      "options": [
+        "a) Human appendix",
+        "b) Human leg muscles",
+        "c) Bat wings",
+        "d) Whale fins"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the shape of the DNA molecule?",
+      "options": [
+        "a) Helical",
+        "b) Circular",
+        "c) Linear",
+        "d) Spiral"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which type of genetic mutation involves the insertion of an extra base into a gene?",
+      "options": [
+        "a) Deletion",
+        "b) Insertion",
+        "c) Substitution",
+        "d) Frameshift"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the study of heredity and the variation of inherited characteristics called?",
+      "options": [
+        "a) Ecology",
+        "b) Genetics",
+        "c) Evolutionary biology",
+        "d) Immunology"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the main component of the cell membrane?",
+      "options": [
+        "a) Proteins",
+        "b) Carbohydrates",
+        "c) Phospholipids",
+        "d) Nucleic acids"
+      ],
+      "answer": 2
+    }
+  ],
+  "Chem101": [
+    {
+      "question": "Which of the following is not a mixture",
+      "options": [
+        "gasoline",
+        "steel",
+        "air",
+        "ammonia",
+        "none"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the g equivalent of 0.027kg",
+      "options": [
+        "2.74g",
+        "27.0g",
+        "274.0g",
+        "0.274g",
+        "0.027g"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following species is a polyatomic atom",
+      "options": [
+        "Zn",
+        "S",
+        "Ca",
+        "Cl",
+        "CN"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "The percentage of hydrogen in ammonia is ...",
+      "options": [
+        "7.14%",
+        "82.3%",
+        "21.4%",
+        "17.76%",
+        "10.0%"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "In which of the following will chlorine indicate oxidation of +5",
+      "options": [
+        "HCL",
+        "HCLO",
+        "HCLO2",
+        "HCLO4",
+        "HCLO3"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following elements is not a halogen",
+      "options": [
+        "F",
+        "Cl",
+        "Br",
+        "At",
+        "Ar"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "What is the temperature in Kelvin that corresponds to a temperature of -12 degrees Celsius",
+      "options": [
+        "-285.2 K",
+        "+285.2 K",
+        "261.15 K",
+        "285.15 K",
+        "261.30 K"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which quantum number is shared by all the orbitals in a shell",
+      "options": [
+        "Principal",
+        "Spin",
+        "Angular momentum",
+        "Magnetic",
+        "None of the Above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which type of electromagnetic radiation has the longest wavelength",
+      "options": [
+        "Microwaves",
+        "Radio/TV waves",
+        "Infared",
+        "UV-rays",
+        "Gamma Rays"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a physical change",
+      "options": [
+        "Converting iron to a steel alloy",
+        "Converting hydrogen to water",
+        "Converting nitrogen gas to ammonia",
+        "Converting sulphur to sulphuric acid",
+        "All of the options"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The neutron was discovered by",
+      "options": [
+        "J. Chadwick",
+        "J.J Thompson",
+        "R. Millikan",
+        "E. Rutherford",
+        "J. Dalton"
+      ],
+      "answer": ""
+    },
+    {
+      "question": "Which formula represents a peroxide",
+      "options": [
+        "K2O",
+        "K2O2",
+        "KO2",
+        "CaO,",
+        "Ca2O2"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The ratio of the number of atoms in 2g hydrogen to 16g of oxygen is",
+      "options": [
+        "3:8",
+        "1:4",
+        "1:2",
+        "2:1",
+        "1:1"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The number of moles of methane(CH4) present in 6.07g of methane is",
+      "options": [
+        "0.379 moles",
+        "0.579 moles",
+        "0.679 moles",
+        "0.279 moles",
+        "0.479 moles"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The mass number of n element is the sum of it's ",
+      "options": [
+        "Protons and neutrons",
+        "Protons and electrons",
+        "Neutrons and Electrons",
+        "Outermost electrons",
+        "Protons, Neutrons and electrons"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A silicon atom in it's ground state orbital diagram has what number of unpaird electron(s)",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a chemical change",
+      "options": [
+        "Water vapour exhaled in your breath condenses in the air on a cold day",
+        "The melting of butter when placed under the sun",
+        "The evaporation of a solution of NaCl to dryness",
+        "The burning of lamp oil",
+        "Forming of dews on a cold night"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the folloiwng is NOT a main group element",
+      "options": [
+        "Hydrogen",
+        "Krypton",
+        "Potassium",
+        "Beryllium",
+        "Chrommium"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Chemical reactions consist of reactants and .......",
+      "options": [
+        "heat",
+        "products",
+        "equations",
+        "mixture",
+        "liquids"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the molecular mass of CH3CO2H",
+      "options": [
+        "44 amu",
+        "60 amu",
+        "56 amu",
+        "30 amu",
+        "20 amu"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is an inexact quantity",
+      "options": [
+        "Number of students in an exam hall",
+        "The mass of a kobo",
+        "The number of grams in a kilogram",
+        "The number of book in a library",
+        "All of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the preferred name for MnO2 ",
+      "options": [
+        "Dioxygen managanide",
+        "Manganous oxide",
+        "Manganese(ii) oxide",
+        "Manganese dioxide",
+        "Manganese(iv) oxide"
+      ],
+      "answer": ""
+    },
+    {
+      "question": "Which of the following theories defines and acid as a aubstance that contains hydrogen and produces H+ in aqueous solutions while a base as a substance that contains hydroxyl group (OH) and produces hydroxide ions(OH-) in aqueous solutions",
+      "options": [
+        "Bronsted Lowry's theory",
+        "Lewis's theory of acids and base",
+        "Arrhenius Theory",
+        "Theory of relativity",
+        "Evolution theory"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which type of acid contained in lemon",
+      "options": [
+        "Hydrogen chloride",
+        "Ammonia",
+        "Citric Acid",
+        "Lactic Acid",
+        "Acetic Acid"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The work done when a gas is compressed in a cylinder is 462j and the heat tranferred from the gas to the surrounding is 128j. Calculate the energy change for the process",
+      "options": [
+        "540j",
+        "334j",
+        "403j",
+        "23j",
+        "590j"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the reagent used as a catalyst in the halogenation of alkenes",
+      "options": [
+        "Carbon tetrachlorate",
+        "Carbon chloride",
+        "Carbon Chlorite",
+        "Trioxocarbonate(iv)",
+        "Tetraoxosulphate (vi)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Alkenes are also called what ",
+      "options": [
+        "Acetics",
+        "Phenols",
+        "Paraffins",
+        "arenes",
+        "Alcohols"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Give the periodic group number and number of valence electrons for each of the following atoms: (a) B, (b) Na, (c) S, (d) Mg, (e) Cl, (f) F, (g) O.",
+      "options": [
+        "Group 1, 1 valence electron",
+        "Group 2, 2 valence electrons",
+        "Group 13, 3 valence electrons",
+        "Group 17, 7 valence electrons",
+        "Group 16, 6 valence electrons"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "For elements in groups 13-17 of the Periodic Table, give the number of bonds an element is expected to form if it obeys the octet rule.",
+      "options": [
+        "Group 13 forms 3 bonds",
+        "Group 14 forms 4 bonds",
+        "Group 15 forms 3 bonds",
+        "Group 16 forms 2 bonds",
+        "Group 17 forms 1 bond"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following elements of the periodic table are capable of forming compounds in which the indicated atom has more than four valence electrons pairs? Give reasons for your choice. (a) P, (b) F, (c) Cl, (d) Be, (e) B, (f) O, (g) Sn, (h) Xe, (i) I",
+      "options": [
+        "Element P",
+        "Element F",
+        "Element Cl",
+        "Element Sn",
+        "Element Xe"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Draw a Lewis dot structure for each of the following molecules or ions: (a) ClO3-, (b) SO3, (c) NF3, (d) HOBR, (e) CH3COOH, (f) acetonitrile CH3CN, (g) allene H2C=C=CH2",
+      "options": [
+        "Structure A",
+        "Structure B",
+        "Structure C",
+        "Structure D",
+        "Structure E"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "In typical tricoordinate boron compounds, the B atom often is not surrounded by four valence electron pairs (i.e., 8 electrons). Demonstrate this using BCl3 as an example. Show also how the molecule can attain an octet configuration by reaction with ammonia NH3.",
+      "options": [
+        "BCl3 structure",
+        "NH3 structure",
+        "Combined structure",
+        "Octet rule example",
+        "Valence structure"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Among SiF4, SeF4, BF4-, BrF4-, and XeF4, which molecules or ions do not have an octet of electrons surrounding the central atom.",
+      "options": [
+        "SiF4",
+        "SeF4",
+        "BF4-",
+        "BrF4-",
+        "XeF4"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is an oxidation?",
+      "options": [
+        "2Li \u2192 2Li+",
+        "2Li (b) 2H\u2212 \u2192 H2",
+        "2Cu2+ \u2192 2Cu",
+        "CrO42\u2212 \u2192 Cr2O72\u2212",
+        "2Br\u2212"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The chemical symbol of vanadium is V, and its atomic number is 23. The electronic configuration of V2+ is?",
+      "options": [
+        "1s22s22p63s23p63d3 4s2",
+        "1s22s22p63s23p63d3",
+        "1s22s22p63s23p63d4 4s3d",
+        "1s22s22p63p63d3",
+        "1s22s22p63s23p63d3 4s3d"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The density of mercury (Hg, a liquid metal) at 25\u00b0C is 13.534 g/cm\u00b3. How many moles are in 32.0 cm\u00b3 of mercury?",
+      "options": [
+        "0.64 mol",
+        "0.46 mol",
+        "1.16 mol",
+        "2.16 mol",
+        "3.16 mol"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Write the chemical formula for magnesium cyanide, which contains 1 atom of magnesium, 2 atoms of carbon, and 2 atoms of nitrogen.",
+      "options": [
+        "Mg(CN)2",
+        "MgC2N2",
+        "Mg(CN)",
+        "Mg2(CN)2",
+        "Mg(CN)3"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How many nitrate ions are there in aqueous solution of Pb(NO3)2?",
+      "options": [
+        "6.58 x 10^23 ions",
+        "1.2 x 10^24 ions",
+        "6.03 x 10^23 ions",
+        "1.2 x 10^25 ions",
+        "12.85 x 10^22 ions"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Health service providers recommend that a person consumes less than 0.1043 moles of sodium per day. What mass of sodium chloride in grams will one consume to still be within the guideline?",
+      "options": [
+        "7.1 g",
+        "6.1 g",
+        "5.1 g",
+        "4.1 g",
+        "3.1 g"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The chemical formula of lead (II) chlorate is",
+      "options": [
+        "Pb(CIO3)2",
+        "PbCIO2",
+        "Pb(CIO2)2",
+        "Pb(CIO3)2e",
+        "PbCl2"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the mass of an electron in grams given that its e/m ratio is 1.7588 x 10^8 C/g",
+      "options": [
+        "7.12 x 10^-26 g",
+        "8.12 x 10^-26 g",
+        "9.12 x 10^-26 g",
+        "10.12 x 10^-26 g",
+        "1.11 x 10^-25 g"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "From the equation below, what is the equilibrium constant (Kc), if [HI] = 0.490 M, [H2] = 0.080 M, [I2] = 0.060 M?",
+      "options": [
+        "50.02",
+        "0.92",
+        "1.05",
+        "75.22",
+        "40.18"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "A 7.83 g sample of HCN is found to contain 0.29 g of H and 4.06 g of N. The mass of carbon in a sample of HCN with a mass of 3.37 g is?",
+      "options": [
+        "3.48 g",
+        "2.48 g",
+        "3.50 g",
+        "2.50 g",
+        "1.50 g"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "An element with atomic number 19 is likely to be:",
+      "options": [
+        "Covalent with a combining power of +1",
+        "Electrovalent with a combining power of +1",
+        "Covalent with a combining power of +4",
+        "Covalent with a combining power of +2",
+        "Electrovalent with a combining power of +2"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Among the elements, B, Ca, F, He, Al and P, which two elemtns exhibit the greatest similarity in chemical properties",
+      "options": [
+        "B and Ca",
+        "Ca and Al",
+        "B and Al",
+        " He and P",
+        "He and F"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is NOT and element",
+      "options": [
+        "germanium",
+        "ammonium",
+        "aluminium",
+        "vanadium",
+        "scandium"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In a phosphorus atom the number of unpaird electron(s) is",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The chemical formula of Cobalt(II) phosphate is",
+      "options": [
+        "Co(PO4)2",
+        "Co(PO4)",
+        "Co2(PO4)",
+        "Co3(PO4)",
+        "Co3(PO4)2"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Which element below is most likely to form hydrogen bonding",
+      "options": [
+        "Chlorine",
+        "Iodine",
+        "Potassium",
+        "Magnesium",
+        "Fluorine"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Which element below is most likely to form compounds with more than four valence electron pairs",
+      "options": [
+        "Boron",
+        "Phosphorus",
+        "Beryllium",
+        "Nitrogen",
+        "Oxygen"
+      ],
+      "answer": 1
+    }
+  ],
+  "Physics101": [
+    {
+      "question": "What is a vector quantity?",
+      "options": [
+        "a) A quantity with only magnitude",
+        "b) A quantity with only direction",
+        "c) A quantity with both magnitude and direction",
+        "d) A quantity that is dimensionless",
+        "e) A quantity that cannot be represented graphically"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is NOT a vector quantity?",
+      "options": [
+        "a) Velocity",
+        "b) Displacement",
+        "c) Force",
+        "d) Temperature",
+        "e) Acceleration"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Two vectors are said to be perpendicular if their dot product is:",
+      "options": [
+        "a) Equal to 1",
+        "b) Equal to -1",
+        "c) Equal to 0",
+        "d) Greater than 1",
+        "e) Less than -1"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The cross product of two vectors results in:",
+      "options": [
+        "a) A scalar quantity",
+        "b) A vector perpendicular to the two vectors",
+        "c) A vector parallel to the two vectors",
+        "d) A dimensionless quantity",
+        "e) A negative scalar"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the magnitude of the resultant of two vectors of equal magnitude A, making an angle \u03b8 with each other?",
+      "options": [
+        "a) A^2 + 2Acos\u03b8",
+        "b) 2A",
+        "c) 2A",
+        "d) 2A^2 + 2A^2cos\u03b8",
+        "e) 2A^2 + Asin\u03b8"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following describes a unit vector?",
+      "options": [
+        "a) A vector with zero magnitude",
+        "b) A vector with magnitude equal to 1",
+        "c) A vector with an infinite magnitude",
+        "d) A vector without direction",
+        "e) A scalar with magnitude equal to 1"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "If the components of a vector are 3i + 4j, what is its magnitude?",
+      "options": [
+        "a) 3",
+        "b) 4",
+        "c) 5",
+        "d) 7",
+        "e) 25"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What happens when two vectors of unequal magnitude are added?",
+      "options": [
+        "a) Their magnitudes are always subtracted",
+        "b) The resultant vector has a magnitude less than both",
+        "c) The resultant vector has a magnitude greater than both",
+        "d) The resultant vector is zero",
+        "e) The resultant vector depends on their relative direction"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "The projection of vector A on vector B is given by:",
+      "options": [
+        "a) A cos\u03b8",
+        "b) B cos\u03b8",
+        "c) A sin\u03b8",
+        "d) B sin\u03b8",
+        "e) AB cos\u03b8"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "If two vectors A and B are parallel, their cross product is:",
+      "options": [
+        "a) Equal to 0",
+        "b) Equal to 1",
+        "c) A unit vector",
+        "d) A vector with maximum magnitude",
+        "e) Perpendicular to A"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the universal law of gravitation?",
+      "options": [
+        "a) Every particle in the universe attracts every other particle with a force directly proportional to their masses and inversely proportional to the square of the distance between them.",
+        "b) Every object is attracted to the Earth by a force proportional to its size.",
+        "c) Gravitational force only acts on objects near the Earth's surface.",
+        "d) The gravitational force between two objects is independent of their masses."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The value of gravitational acceleration on the surface of the Earth is approximately:",
+      "options": [
+        "a) 9.8 m/s\u00b2",
+        "b) 10 m/s\u00b2",
+        "c) 9.8 km/s\u00b2",
+        "d) 8.9 m/s\u00b2"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What happens to the gravitational force between two objects if the distance between them is doubled?",
+      "options": [
+        "a) The gravitational force becomes twice as strong.",
+        "b) The gravitational force becomes four times weaker.",
+        "c) The gravitational force becomes half as strong.",
+        "d) The gravitational force becomes one-quarter as strong."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is true about gravitational force?",
+      "options": [
+        "a) Gravitational force is always attractive.",
+        "b) Gravitational force can be repulsive.",
+        "c) Gravitational force only acts on large bodies like planets and stars.",
+        "d) Gravitational force increases as the mass of objects decreases."
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for calculating the gravitational force between two objects?",
+      "options": [
+        "a) F = G * (m\u2081 * m\u2082) / r\u00b2",
+        "b) F = m * a",
+        "c) F = m * g",
+        "d) F = G * (m\u2081 + m\u2082) / r\u00b2"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "If the mass of one of the objects in the gravitational force formula is doubled, what happens to the force?",
+      "options": [
+        "a) The gravitational force is halved.",
+        "b) The gravitational force is doubled.",
+        "c) The gravitational force is quadrupled.",
+        "d) The gravitational force remains the same."
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The gravitational constant G is approximately:",
+      "options": [
+        "a) 6.67 x 10\u207b\u00b9\u00b9 N\u00b7m\u00b2/kg\u00b2",
+        "b) 9.81 N\u00b7m\u00b2/kg\u00b2",
+        "c) 1.67 x 10\u207b\u00b9\u00b9 N\u00b7m\u00b2/kg\u00b2",
+        "d) 6.67 x 10\u207b\u00b9\u2070 N\u00b7m\u00b2/kg\u00b2"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "How does gravitational force affect an object in freefall near Earth's surface?",
+      "options": [
+        "a) The object experiences no force and continues at a constant speed.",
+        "b) The object is repelled from Earth and moves away from it.",
+        "c) The object is attracted to Earth and accelerates towards it.",
+        "d) The object experiences a constant upward force."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "If the radius of the Earth were halved, what would happen to the gravitational force at the surface?",
+      "options": [
+        "a) The force would be halved.",
+        "b) The force would remain the same.",
+        "c) The force would double.",
+        "d) The force would quadruple."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is true about the gravitational force between the Earth and the Moon?",
+      "options": [
+        "a) The Earth exerts a stronger gravitational force on the Moon than the Moon does on the Earth.",
+        "b) The Moon exerts a stronger gravitational force on the Earth than the Earth does on the Moon.",
+        "c) The Earth and the Moon exert equal gravitational forces on each other.",
+        "d) Gravitational force does not act between the Earth and the Moon."
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is dimensional analysis used for?",
+      "options": [
+        "a) To calculate the numerical value of a physical quantity",
+        "b) To verify the correctness of physical equations",
+        "c) To determine the units of a physical quantity",
+        "d) To measure the mass and length of objects"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a dimensionless quantity?",
+      "options": [
+        "a) Velocity",
+        "b) Force",
+        "c) Angle",
+        "d) Energy"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The dimensional formula for velocity is:",
+      "options": [
+        "a) [M L T\u207b\u00b2]",
+        "b) [M L T\u207b\u00b9]",
+        "c) [M L\u00b2 T\u207b\u00b2]",
+        "d) [M T\u207b\u00b2]"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following quantities has the dimensional formula [M L\u00b2 T\u207b\u00b3]?",
+      "options": [
+        "a) Work",
+        "b) Power",
+        "c) Pressure",
+        "d) Force"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In dimensional analysis, the principle of homogeneity states that:",
+      "options": [
+        "a) The dimensions of different terms in an equation must be the same",
+        "b) The dimensions of a quantity are always measured in meters",
+        "c) All physical quantities are dimensionless",
+        "d) Physical laws are always dimensionless"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the dimensional formula for the gravitational constant G?",
+      "options": [
+        "a) [M\u207b\u00b9 L\u00b3 T\u207b\u00b2]",
+        "b) [M L\u00b2 T\u207b\u00b2]",
+        "c) [M L T\u207b\u00b2]",
+        "d) [M L\u00b3 T\u207b\u00b2]"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is the dimensional formula for pressure?",
+      "options": [
+        "a) [M L\u207b\u00b9 T\u207b\u00b2]",
+        "b) [M L T\u207b\u00b2]",
+        "c) [M L\u207b\u00b2 T\u207b\u00b2]",
+        "d) [M L\u00b2 T\u207b\u00b2]"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The dimensional formula for energy is:",
+      "options": [
+        "a) [M L\u00b2 T\u207b\u00b2]",
+        "b) [M L T\u207b\u00b2]",
+        "c) [M L\u00b2 T\u207b\u00b9]",
+        "d) [M T\u207b\u00b2]"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "If the dimensions of a quantity are [M L\u00b2 T\u207b\u00b3], which of the following physical quantities could this be?",
+      "options": [
+        "a) Force",
+        "b) Energy",
+        "c) Power",
+        "d) Work"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is the correct dimensional formula for acceleration due to gravity?",
+      "options": [
+        "a) [M L T\u207b\u00b2]",
+        "b) [M L T\u207b\u00b9]",
+        "c) [L T\u207b\u00b2]",
+        "d) [M L T\u207b\u00b3]"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following best defines velocity?",
+      "options": [
+        "a) Distance traveled per unit time",
+        "b) Displacement per unit time",
+        "c) Speed in a particular direction",
+        "d) Both b and c"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the SI unit of acceleration?",
+      "options": [
+        "a) m/s",
+        "b) m/s\u00b2",
+        "c) m",
+        "d) s\u00b2"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "If an object is moving with uniform velocity, its acceleration is:",
+      "options": [
+        "a) Zero",
+        "b) Constant",
+        "c) Increasing",
+        "d) Decreasing"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is true according to Newton's first law of motion?",
+      "options": [
+        "a) An object will stay at rest unless acted upon by a net external force",
+        "b) An object will stay in motion unless acted upon by a net external force",
+        "c) An object will accelerate unless acted upon by a net external force",
+        "d) Both a and b"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Newton's second law of motion is mathematically given by which equation?",
+      "options": [
+        "a) F = ma",
+        "b) F = mv",
+        "c) F = m/v",
+        "d) F = m + a"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What does Newton's third law of motion state?",
+      "options": [
+        "a) Every action has an equal and opposite reaction",
+        "b) The force of action is always greater than the force of reaction",
+        "c) A force causes an object to move",
+        "d) The velocity of an object depends on the force acting on it"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "If an object is thrown vertically upward, what is its velocity at the highest point?",
+      "options": [
+        "a) Zero",
+        "b) Maximum",
+        "c) Minimum",
+        "d) Infinite"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the acceleration due to gravity on the Earth's surface?",
+      "options": [
+        "a) 9.8 m/s\u00b2",
+        "b) 9.8 m/s",
+        "c) 10 m/s\u00b2",
+        "d) 8.9 m/s\u00b2"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following quantities is a vector?",
+      "options": [
+        "a) Speed",
+        "b) Distance",
+        "c) Displacement",
+        "d) Time"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the motion of an object called when it moves in a straight line with constant speed?",
+      "options": [
+        "a) Uniform acceleration",
+        "b) Uniform velocity",
+        "c) Non-uniform velocity",
+        "d) Accelerated motion"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the definition of fluid dynamics?",
+      "options": [
+        "a) The study of the motion of solid bodies",
+        "b) The study of the motion of fluids and their interaction with solid boundaries",
+        "c) The study of gravitational forces on fluids",
+        "d) The study of temperature effects on fluids"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the SI unit of fluid velocity?",
+      "options": [
+        "a) m/s",
+        "b) m\u00b2/s",
+        "c) kg/m\u00b3",
+        "d) N/m\u00b2"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The equation of continuity in fluid dynamics expresses the relationship between the flow rates of a fluid. Which of the following is the correct equation?",
+      "options": [
+        "a) A\u2081v\u2081 = A\u2082v\u2082",
+        "b) A\u2081 + A\u2082 = v\u2081 + v\u2082",
+        "c) A\u2081v\u2081 = A\u2082/v\u2082",
+        "d) A\u2081v\u2081 = v\u2082"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following best describes laminar flow?",
+      "options": [
+        "a) Flow with irregular fluctuations and turbulence",
+        "b) Smooth, orderly flow where layers of fluid move parallel to each other",
+        "c) Flow that occurs only in gases",
+        "d) Flow with constant speed"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which law states that the pressure in a fluid decreases as the speed of the fluid increases?",
+      "options": [
+        "a) Boyle's Law",
+        "b) Bernoulli's Principle",
+        "c) Archimedes' Principle",
+        "d) Pascal's Law"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the principle that explains why objects float in a fluid?",
+      "options": [
+        "a) Archimedes' Principle",
+        "b) Newton's Third Law",
+        "c) Pascal's Law",
+        "d) Bernoulli's Principle"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In a fluid, the pressure at a given depth depends on the:",
+      "options": [
+        "a) The shape of the container",
+        "b) The temperature of the fluid",
+        "c) The density of the fluid and the gravitational acceleration",
+        "d) The volume of the fluid"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What does Pascal's Law state about the behavior of a confined fluid?",
+      "options": [
+        "a) The pressure exerted on the fluid is uniform throughout the fluid",
+        "b) The volume of the fluid remains constant",
+        "c) The speed of the fluid increases with depth",
+        "d) The pressure at a point in a fluid increases with increasing volume"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the term for the resistance of a fluid to flow?",
+      "options": [
+        "a) Fluid velocity",
+        "b) Viscosity",
+        "c) Fluid density",
+        "d) Fluid pressure"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In fluid mechanics, the Reynolds number is used to predict:",
+      "options": [
+        "a) The flow rate of a fluid",
+        "b) Whether the flow is laminar or turbulent",
+        "c) The density of the fluid",
+        "d) The pressure in the fluid"
+      ],
+      "answer": 1
+    }
+  ],
+  "Maths101": [
+    {
+      "question": "For what values of K does the equation x^2 + (k - 2)x + k + 1 = 0 have equal roots?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What value of 'a' will the equation x^2 + (3a + 1)x + a^2 - 1 = 5a have equal roots?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Find the values of p, q, and r if 3x^2 - 12x + 6 = P(x + q)^2 + r.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Prove that the equation k^2 - 2pk + 3p^2 + q = 0 where p and q are constants cannot have real roots if p and q are real.",
+      "options": [
+        "True",
+        "False",
+        "Cannot be determined",
+        "Depends on p",
+        "Depends on q"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "For what values of 'a' will the equation ax^2 - 6x + 3a = 0 have coincident roots?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "If \u03b1 and \u03b2 are the roots of the equation p^2 - 3p + 2 = 0, find \u03b1 + \u03b2.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "If \u03b1 and \u03b2 are the roots of the equation p^2 - 3p + 2 = 0, find \u03b1^2 + \u03b2^2.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "If \u03b1 and \u03b2 are the roots of the equation p^2 - 3p + 2 = 0, find \u03b1 - \u03b2.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "If \u03b1 and \u03b2 are the roots of the equation p^2 - 3p + 2 = 0, find \u03b1^2 - \u03b2^2.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "If \u03b1 and \u03b2 are the roots of the equation (x - 3/4)^2 - 17/16 = 0, find \u03b1^2/\u03b2^2.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "If \u03b1 and \u03b2 are the roots of the equation (x - 3/4)^2 - 17/16 = 0, find \u03b2^2/\u03b1^2.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "If \u03b1 and \u03b2 are the roots of the equation (x - 3/4)^2 - 17/16 = 0, find \u03b1 + \u03b2.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "If \u03b1 and \u03b2 are the roots of the equation 5x^2 - x = 10 form the equation whose roots are \u03b1 + 1 and \u03b2 + 1.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "If \u03b1 and \u03b2 are the roots of the equation t^2 + qt - 10 = 0 and \u03b1^2 + \u03b2^2 = 29, show that the value of q is \u00b13.",
+      "options": [
+        "True",
+        "False",
+        "Cannot be determined",
+        "Depends on \u03b1",
+        "Depends on \u03b2"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Given that one of the roots of the equation px^2 + qx + r = 0 is two times the other, prove that the roots are -q/3a and -2q/3a.",
+      "options": [
+        "True",
+        "False",
+        "Depends on p",
+        "Depends on q",
+        "Depends on r"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Using the definition of inverse, find the inverse of a matrix A given that AB=BA=I and A is a square matrix of order 3.",
+      "options": [
+        "A. Inverse does not exist",
+        "B. A^-1 = B",
+        "C. A^-1 = A",
+        "D. A^-1 = I",
+        "E. Not enough information to determine"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Suppose K = [3 2; 1 -4], L = [a b; c d], and KL=LK=I. Find the values of a, b, c, and d.",
+      "options": [
+        "A. a=3, b=2, c=1, d=-4",
+        "B. a=4/13, b=-2/13, c=-1/13, d=3/13",
+        "C. a=1/4, b=1/2, c=1, d=-4",
+        "D. a=3/13, b=2/13, c=1/13, d=-4/13",
+        "E. No solution"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "For what values of p and q is the matrix A = [[p-q, p+q]; [p+q, p-q]] an identity?",
+      "options": [
+        "A. p=0, q=0",
+        "B. p=1, q=0",
+        "C. p=0, q=1",
+        "D. p=1, q=1",
+        "E. No values of p and q make A an identity"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "Solve the following system of linear equations using Cramer's rule: 2x + y - 3z = 5, 3x - 2y + 2z = 5, 5x - 3y - z = 16",
+      "options": [
+        "A. x=2, y=1, z=-1",
+        "B. x=1, y=2, z=3",
+        "C. x=2, y=-1, z=1",
+        "D. x=3, y=2, z=1",
+        "E. No solution"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Using Gaussian elimination method, solve the equations 5p + 7q - r = -29, -13p + 17q + 19r = 37, p - 2q + 3r = 15",
+      "options": [
+        "A. p=1, q=2, r=3",
+        "B. p=2, q=-1, r=1",
+        "C. p=3, q=2, r=1",
+        "D. p=2, q=1, r=-1",
+        "E. No solution"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Solve the linear system using the inverse matrix method: 6x\u2081 - 4x\u2082 + 3x\u2083 = -4, 14x\u2081 + 2x\u2082 - 6x\u2083 = 9, -4x\u2081 + x\u2082 + 9x\u2083 = 3",
+      "options": [
+        "A. x\u2081=1, x\u2082=2, x\u2083=3",
+        "B. x\u2081=2, x\u2082=-1, x\u2083=1",
+        "C. x\u2081=3, x\u2082=2, x\u2083=1",
+        "D. x\u2081=2, x\u2082=1, x\u2083=-1",
+        "E. No solution"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A couple has \u20a610,000 to invest. As their financial consultant, you recommend they invest in Treasury bills that yield 6%, Treasury bonds that yield 8%, and Corporate bonds that yield 10%. The couple wants to have an annual income of \u20a6680 and the amount invested in Corporate bonds must be half that invested in Treasury bills. Find the amount in each investment.",
+      "options": [
+        "A. Treasury bills: \u20a64,000, Treasury bonds: \u20a63,000, Corporate bonds: \u20a62,000",
+        "B. Treasury bills: \u20a63,000, Treasury bonds: \u20a64,000, Corporate bonds: \u20a62,000",
+        "C. Treasury bills: \u20a62,000, Treasury bonds: \u20a63,000, Corporate bonds: \u20a64,000",
+        "D. Treasury bills: \u20a62,000, Treasury bonds: \u20a64,000, Corporate bonds: \u20a63,000",
+        "E. None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Find the function y = ax\u00b2 + bx + c passing through the points (1, -1), (3, -1), and (-2, 14). Use the system of linear equations approach.",
+      "options": [
+        "A. y = 2x\u00b2 - 3x + 2",
+        "B. y = -2x\u00b2 + 3x - 2",
+        "C. y = 3x\u00b2 - 2x + 1",
+        "D. y = -3x\u00b2 + 2x - 1",
+        "E. None of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The system below is derived from an electrical circuit by the application of Kirchhoff's voltage rule: 2i\u2082 = 4, 8 = 5i\u2084 + i\u2081, Find i\u2081, i\u2082, i\u2083, and i\u2084.",
+      "options": [
+        "A. i\u2081 = 2, i\u2082 = 2, i\u2083 = 4, i\u2084 = 1",
+        "B. i\u2081 = 2, i\u2082 = 2, i\u2083 = 1, i\u2084 = 4",
+        "C. i\u2081 = 4, i\u2082 = 2, i\u2083 = 1, i\u2084 = 2",
+        "D. i\u2081 = 1, i\u2082 = 2, i\u2083 = 4, i\u2084 = 2",
+        "E. None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Determine the number of insects at t = 0 for the function P(t) = 500e^(0.02t).",
+      "options": [
+        "0 insects",
+        "500 insects",
+        "1000 insects",
+        "200 insects",
+        "800 insects"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the rate of decay of strontium 90 according to A(t) = A\u2080e^(-0.0244t)?",
+      "options": [
+        "0.01",
+        "0.02",
+        "0.0244",
+        "0.05",
+        "0.10"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Given a population of rabbits with an exponential growth rate of 11.7% per day and initial population of 100, what will the population be after 7 days?",
+      "options": [
+        "200 rabbits",
+        "220 rabbits",
+        "235 rabbits",
+        "250 rabbits",
+        "270 rabbits"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "For a lake with 400 fish and a limiting population of 2500, what is the population after t = 0 months?",
+      "options": [
+        "2500 fish",
+        "1000 fish",
+        "400 fish",
+        "600 fish",
+        "500 fish"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "\u221a28 may be written as _____.",
+      "options": [
+        "A. 2\u221a7",
+        "B. 7\u221a2",
+        "C. 2\u221a2",
+        "D. 4\u221a7",
+        "E. None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Rationalizing the denominator of 1/\u221a5 gives _____.",
+      "options": [
+        "A. 5/\u221a5",
+        "B. 1",
+        "C. \u221a5/\u221a5",
+        "D. \u221a5/5",
+        "E. None of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The 7th term of an AP is -39/12 and the 15th term is -103/12. What is the 27th term?",
+      "options": [
+        "A. -187/12",
+        "B. -191/12",
+        "C. -199/12",
+        "D. -205/12",
+        "E. None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In an AP of 21 terms, the sum of the first 3 terms is \u2013 33 and that of the middle 3 is 75. What is the sum of the AP?",
+      "options": [
+        "A. -955",
+        "B. -1155",
+        "C. 525",
+        "D. 715",
+        "E. None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The 6th term of an AP is 6 and the 16th term is 14. What is the 27th term?",
+      "options": [
+        "A. 106/5",
+        "B. 22/5",
+        "C. 118/5",
+        "D. 114/5",
+        "E. None of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "In an AP, the ratio of the 2nd term to the 7th term is 1/3. If the 5th term is 11, what is the 15th term?",
+      "options": [
+        "A. 28",
+        "B. 31",
+        "C. 33",
+        "D. 36",
+        "E. None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The sum of the first 3 terms in an AP is 6 and that of the last 3 is 16. If the AP has 13 terms, what is the sum of the middle three terms?",
+      "options": [
+        "A. 7",
+        "B. 9",
+        "C. 11",
+        "D. 13",
+        "E. None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In an AP, the ratio of the 7th term to the 10th term is -1. If the 16th term is -15, what is the 3rd term?",
+      "options": [
+        "A. 11",
+        "B. 13",
+        "C. -11",
+        "D. -13",
+        "E. None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In an AP, the sum of the first 3 terms is -36 and that of the last 3 is 27. If there are 10 terms, what are the 1st term and the common difference respectively?",
+      "options": [
+        "A. 15, 3",
+        "B. -15, 3",
+        "C. 15, -3",
+        "D. -15, -3",
+        "E. None of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "In an AP, the sum of the first 3 terms is \u2013 60 and that of the last 3 is 84. If there are 15 terms, what is the sum of the middle 3 terms?",
+      "options": [
+        "A. 8",
+        "B. 12",
+        "C. 16",
+        "D. 24",
+        "E. None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which trigonometric function can equal or be greater than 1.000?",
+      "options": [
+        "Sine",
+        "Cosine",
+        "Tangent",
+        "None of the above",
+        "All of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A plane ascends at a 40\u00b0 angle. When it reaches an altitude of one hundred feet, how much ground distance has it covered? To solve, use the trigonometric chart. Round the answer to the nearest tenth.",
+      "options": [
+        "64.3 feet",
+        "76.6 feet",
+        "80.1 feet",
+        "119.2 feet",
+        "None of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A 20 ft. beam leans against a wall. The beam reaches the wall 13.9 ft. above the ground. What is the measure of the angle formed by the beam and the ground?",
+      "options": [
+        "44\u00b0",
+        "35\u00b0",
+        "55\u00b0",
+        "46\u00b0",
+        "None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which set of angles has the same trigonometric ratio?",
+      "options": [
+        "Sin 45 and tan 45",
+        "Sin 30 and cos 60",
+        "Cos 30 and tan 45",
+        "Tan 60 and sin 45",
+        "None of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the sum of trigonometric ratios Sin 54 and Cos 36?",
+      "options": [
+        "0.809",
+        "1.618",
+        "1.000",
+        "1.536",
+        "None of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the sum of trigonometric ratios Sin 33 and Sin 57?",
+      "options": [
+        "0.545",
+        "1.000",
+        "1.090",
+        "1.383",
+        "None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the sum of trigonometric ratios Cos 16 and Cos 74?",
+      "options": [
+        "0.276",
+        "0.961",
+        "1.237",
+        "1.922",
+        "None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In \u25b3ABC, vertex C is a right angle. Which trigonometric ratio has the same trigonometric value as Sin A?",
+      "options": [
+        "Sin B",
+        "Cosine A",
+        "Cosine B",
+        "Tan A",
+        "None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In \u25b3ABC, Tan \u2220A = 3/4. The hypotenuse of \u25b3ABC is:",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "9",
+        "None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In \u25b3ABC, Sin \u2220B = 14/17. The hypotenuse of \u25b3ABC is:",
+      "options": [
+        "14",
+        "17",
+        "\u221a485",
+        "0.824",
+        "None of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In \u25b3ABC, Cos \u2220C = 22/36. The hypotenuse is:",
+      "options": [
+        "22",
+        "36",
+        "0.611",
+        "2\u221a445",
+        "None of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the correct definition of Sine (Sin)?",
+      "options": [
+        "Adjacent / Hypotenuse",
+        "Hypotenuse / Adjacent",
+        "Hypotenuse / Opposite",
+        "Opposite / Hypotenuse",
+        "None of the above"
+      ],
+      "answer": 3
+    }
+  ],
+  "Bio102": [
+    {
+      "question": "What is the usual direction of 'knowledge' in a cell?",
+      "options": [
+        "From protein to DNA",
+        "From DNA to DNA",
+        "From DNA to RNA to protein",
+        "Random",
+        ""
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which viruses appear to be hypermutable?",
+      "options": [
+        "DNA viruses",
+        "'Emerging' viruses",
+        "Influenza and HIV",
+        "RNA viruses",
+        ""
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Positive stranded RNA viruses have which of the following characteristics?",
+      "options": [
+        "Their genome RNA can be translated directly as mRNA",
+        "They have to transcribe their genome RNA to a mirror image copy as mRNA",
+        "This genome is circular",
+        "Their RNA genome is segmented",
+        ""
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Assembly is a vital late replication stage for a virus and is often accomplished by which of the following?",
+      "options": [
+        "Use of cellular scaffolding in the nucleus and cytoplasm",
+        "Snatching cellular lipids and membranes",
+        "Master plan embedded in the viral genome",
+        "Random interactions between cellular and virus proteins",
+        ""
+      ],
+      "answer": 2
+    },
+    {
+      "question": "A quasi species virus such as influenza and HIV has which of the following characteristics?",
+      "options": [
+        "A fragmented or segmented genome",
+        "Co-existence of innumerable genetic variants",
+        "Possesses RNA and DNA",
+        "A very large genome",
+        ""
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Viruses outside their host cells survive as ____________",
+      "options": [
+        "virions",
+        "algae",
+        "protozoa",
+        "bacteria",
+        ""
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following phase determines the specificity of the virus?",
+      "options": [
+        "Uncoating",
+        "Release",
+        "Attachment",
+        "Penetration",
+        ""
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is the most common capsid shape of the virus?",
+      "options": [
+        "Cone",
+        "Icosahedron",
+        "Cube",
+        "Rod",
+        ""
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is not a category of the method of virus detection?",
+      "options": [
+        "Nucleic acid detection",
+        "Serology",
+        "Hematology",
+        "Multiplication",
+        ""
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following viruses are icosahedrons?",
+      "options": [
+        "Isometric virus",
+        "Simple virus",
+        "Filamentous virus",
+        "Complex virus",
+        ""
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is not the criteria for the classification of virus-host interactions?",
+      "options": [
+        "Signs and symptoms",
+        "Duration of infection",
+        "Production of infectious progeny",
+        "Size of the virus",
+        ""
+      ],
+      "answer": 3
+    },
+    {
+      "question": "A virus consists of:",
+      "options": [
+        "RNA or DNA and a cell membrane",
+        "RNA or DNA and a protein coat",
+        "RNA and DNA and a protein coat",
+        "proteins, cell membrane and RNA",
+        ""
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How do viruses reproduce?",
+      "options": [
+        "They divide by mitosis",
+        "Sexually, by external fertilization",
+        "Replication outside the host",
+        "Inserting DNA into the host cell",
+        ""
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following is smallest?",
+      "options": [
+        "Eukaryote cell",
+        "Bacteria",
+        "Bacteriophage",
+        "Cell membrane protein",
+        ""
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Retroviruses are different from viruses in that:",
+      "options": [
+        "They have RNA instead of DNA",
+        "They can become dormant",
+        "They are symmetrical",
+        "All of these",
+        ""
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Vaccines can be used to prevent viral infection by:",
+      "options": [
+        "Creating an immune response in the host",
+        "Destroying any viruses that enter the host",
+        "Creating a blocking protein on the cell",
+        "Preventing replication of the virus",
+        ""
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Antiviral drugs that are used after infection often prevent:",
+      "options": [
+        "Cell division",
+        "Immune system degradation",
+        "Reinfection by other viruses",
+        "Uptake of the virus",
+        ""
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Why do some viruses seem to go away and then return later, like a cold sore?",
+      "options": [
+        "Host has been infected with a different strain",
+        "The immune system forgot the virus",
+        "The virus had entered the lysogenic cycle",
+        "The virus mutated",
+        ""
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Why is it difficult to develop vaccines for retroviruses?",
+      "options": [
+        "Their small size evades the immune system",
+        "RNA mutates more frequently than DNA",
+        "The capsid of retroviruses is resistant",
+        "Vaccines can only target blood-borne pathogens",
+        ""
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Viruses are often named by:",
+      "options": [
+        "Where they were first discovered",
+        "The scientist who discovered it",
+        "The animal that carries it",
+        "All of these",
+        ""
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What happens after the virus has been taken up by the cell?",
+      "options": [
+        "It begins making protein",
+        "It divides",
+        "It inserts into the host DNA",
+        "It switches to infectious mode",
+        ""
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of plants?",
+      "options": [
+        "They are autotrophic.",
+        "They have a cell wall made of cellulose.",
+        "They perform photosynthesis.",
+        "They lack chlorophyll.",
+        "They store food as starch."
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which plant division includes non-vascular plants?",
+      "options": [
+        "Bryophyta",
+        "Pteridophyta",
+        "Gymnosperms",
+        "Angiosperms",
+        "Chlorophyta"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The reproductive structures in gymnosperms are called:",
+      "options": [
+        "Flowers",
+        "Cones",
+        "Spores",
+        "Fruits",
+        "Bulbs"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following plants is an example of a monocot?",
+      "options": [
+        "Mango",
+        "Wheat",
+        "Rose",
+        "Neem",
+        "Pea"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the dominant phase of the life cycle in mosses?",
+      "options": [
+        "Sporophyte",
+        "Gametophyte",
+        "Diploid phase",
+        "Zygote",
+        "Seedling phase"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a vascular plant?",
+      "options": [
+        "Liverwort",
+        "Moss",
+        "Fern",
+        "Algae",
+        "Cyanobacteria"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Angiosperms differ from gymnosperms in that they:",
+      "options": [
+        "Have seeds enclosed in fruits",
+        "Lack vascular tissue",
+        "Produce spores instead of seeds",
+        "Depend entirely on water for reproduction",
+        "Have needle-like leaves"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is NOT an adaptation of xerophytes?",
+      "options": [
+        "Thick cuticle",
+        "Reduced leaf size",
+        "Stomata in deep pits",
+        "Air-filled tissues for buoyancy",
+        "CAM photosynthesis"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the main function of xylem in plants?",
+      "options": [
+        "Transport of water and minerals",
+        "Transport of food",
+        "Photosynthesis",
+        "Reproduction",
+        "Storage of starch"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In algae, the dominant phase of the life cycle is usually:",
+      "options": [
+        "Gametophyte",
+        "Sporophyte",
+        "Diploid phase",
+        "Embryo",
+        "Seed phase"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following is NOT a characteristic of animals?",
+      "options": [
+        "Multicellular structure",
+        "Presence of cell walls",
+        "Heterotrophic nutrition",
+        "Ability to move at some stage of life",
+        "Reproduction by sexual or asexual means"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of these is an invertebrate?",
+      "options": [
+        "Frog",
+        "Snake",
+        "Earthworm",
+        "Eagle",
+        "Shark"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the symmetry shown by most members of Phylum Cnidaria?",
+      "options": [
+        "Asymmetry",
+        "Radial symmetry",
+        "Bilateral symmetry",
+        "Spherical symmetry",
+        "No symmetry"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following groups of animals is cold-blooded?",
+      "options": [
+        "Birds",
+        "Mammals",
+        "Amphibians",
+        "Primates",
+        "None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What type of body cavity do annelids have?",
+      "options": [
+        "Acoelomate (no body cavity)",
+        "Pseudocoelomate (false body cavity)",
+        "Coelomate (true body cavity)",
+        "Diploblastic cavity",
+        "Open body cavity"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following animals belongs to Phylum Mollusca?",
+      "options": [
+        "Spider",
+        "Jellyfish",
+        "Octopus",
+        "Starfish",
+        "Scorpion"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the primary characteristic of arthropods?",
+      "options": [
+        "Soft, unsegmented body",
+        "Jointed appendages and exoskeleton",
+        "Presence of notochord",
+        "Open circulatory system without segments",
+        "Radial symmetry"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which animal is an example of an acoelomate?",
+      "options": [
+        "Tapeworm",
+        "Snail",
+        "Earthworm",
+        "Fish",
+        "Spider"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which group of animals are exclusively marine?",
+      "options": [
+        "Amphibians",
+        "Echinoderms",
+        "Reptiles",
+        "Arthropods",
+        "Mammals"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the main respiratory organ in fish?",
+      "options": [
+        "Lungs",
+        "Spiracles",
+        "Gills",
+        "Skin",
+        "Trachea"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following structures is NOT present in bacteria?",
+      "options": [
+        "Cell wall",
+        "Mitochondria",
+        "Plasma membrane",
+        "Ribosomes",
+        "DNA"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the mode of reproduction in most bacteria?",
+      "options": [
+        "Binary fission",
+        "Budding",
+        "Sexual reproduction",
+        "Fragmentation",
+        "Spore formation"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which type of bacteria is responsible for nitrogen fixation?",
+      "options": [
+        "Cyanobacteria",
+        "Thermophiles",
+        "Methanogens",
+        "Proteobacteria",
+        "Halophiles"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the purpose of bacterial flagella?",
+      "options": [
+        "Protection from phagocytosis",
+        "Movement",
+        "Photosynthesis",
+        "DNA replication",
+        "Nutrient absorption"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is a gram-negative bacterium?",
+      "options": [
+        "Staphylococcus",
+        "Escherichia coli",
+        "Bacillus subtilis",
+        "Lactobacillus",
+        "Clostridium"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the function of the bacterial capsule?",
+      "options": [
+        "DNA replication",
+        "Movement",
+        "Protection from desiccation and immune responses",
+        "Protein synthesis",
+        "Cellular respiration"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the genetic material of bacteria composed of?",
+      "options": [
+        "Single-stranded RNA",
+        "Double-stranded RNA",
+        "Double-stranded circular DNA",
+        "Linear DNA",
+        "Single-stranded circular DNA"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following bacteria is used in the production of antibiotics?",
+      "options": [
+        "Streptomyces",
+        "Clostridium",
+        "Mycobacterium",
+        "Lactobacillus",
+        "Salmonella"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the main component of the bacterial cell wall?",
+      "options": [
+        "Cellulose",
+        "Chitin",
+        "Peptidoglycan",
+        "Glycogen",
+        "Lipopolysaccharide"
+      ],
+      "answer": 2
+    }
+  ],
+  "Chem102": [
+    {
+      "question": "Another name for alkanes is acetics ?",
+      "options": [
+        "Both true and false",
+        "False",
+        "True",
+        "None of the Above",
+        "Maybe"
+      ],
+      "answer": "false"
+    },
+    {
+      "question": "Chemistry of soap is known as  ?",
+      "options": [
+        "Soap reaction",
+        "Saponification",
+        "Steocheometry",
+        "Electrolysis",
+        "Thermodynamics"
+      ],
+      "answer": "Saponifiction "
+    },
+    {
+      "question": "what is the bond angle of alkanes ?",
+      "options": [
+        "180 degs",
+        "50 degs",
+        "80 degs",
+        "109.5 degs",
+        "10 degs"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "if you react alkanoic acid with and alkanol, what will be the resulting organic compound ?",
+      "options": [
+        "Ether",
+        "Ester",
+        "Ketone",
+        "Nitrile",
+        "Cocaine"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "when alkanes are reacted with bromine water what will be the reactant ?",
+      "options": [
+        "Acid Hallide",
+        "ketone",
+        "Akyl Hallide",
+        "No reaction",
+        "Urea"
+      ],
+      "answer": "No reaction "
+    },
+    {
+      "question": "Which molecule contains a carbon-carbon double bond?",
+      "options": [
+        "A. Ethane",
+        "B. Ethene",
+        "C. Ethyne",
+        "D. Ethyl alcohol",
+        "E. None of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which product is obtained when chloromethane (or methyl chloride) is reduced?",
+      "options": [
+        "A. Ethane",
+        "B. Ethene",
+        "C. Methane",
+        "D. Ethyne",
+        "E. None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which reacts explosively with methane?",
+      "options": [
+        "A. F2",
+        "B. Cl2",
+        "C. Br2",
+        "D. I2",
+        "E. None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "By dehydration we mean, the removal of:",
+      "options": [
+        "A. Hydrogen",
+        "B. Water",
+        "C. Halogen",
+        "D. Hydrogen halide",
+        "E. None of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Ethane and ethyne can be differentiated by:",
+      "options": [
+        "A. Hydrogenation",
+        "B. Bromine water",
+        "C. Dilute alkaline aqueous solution of KMnO4",
+        "D. Hydrohalogenation",
+        "E. None of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which is used for dehydrohalogenation?",
+      "options": [
+        "A. Br2, water",
+        "B. Conc. H2SO4",
+        "C. Al2O3",
+        "D. Alcoholic KOH",
+        "E. None of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which substance reacts with KMnO4 to produce oxalic acid?",
+      "options": [
+        "A. Ethane",
+        "B. Ethene",
+        "C. Ethyne",
+        "D. Ethyl alcohol",
+        "E. None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The reaction of alkyl halides takes place in the presence of:",
+      "options": [
+        "A. Al2O3 at 350 0C",
+        "B. Conc. H2SO4 at 170 0C",
+        "C. Zn (dust)",
+        "D. Zn + HCl",
+        "E. None of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which process produces an alkane?",
+      "options": [
+        "A. Combustion",
+        "B. Hydration",
+        "C. Dehydration",
+        "D. Hydrogenation",
+        "E. None of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Does not react with aqueous solution of bromine:",
+      "options": [
+        "A. C2H6",
+        "B. C2H4",
+        "C. C2H2",
+        "D. C3H6",
+        "E. None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following properties makes carbon unique in organic chemistry?",
+      "options": [
+        "A. Carbon forms only single bonds with other elements.",
+        "B. Carbon can form stable chains and rings by bonding with itself.",
+        "C. Carbon always forms ionic bonds with other elements.",
+        "D. Carbon is less electronegative than hydrogen.",
+        "E. None of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Identify the compound with an alcohol functional group.",
+      "options": [
+        "A. CH3-CH2-O-CH2-CH3",
+        "B. CH3-CH2-NH2",
+        "C. CH3-CH2-OH",
+        "D. CH3-CO-CH3",
+        "E. None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following functional groups contains a carbon-oxygen double bond?",
+      "options": [
+        "A. Hydroxyl group",
+        "B. Amine group",
+        "C. Carbonyl group",
+        "D. Ether group",
+        "E. None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is the correct IUPAC name for the compound with the structure CH3CH2CH2OH?",
+      "options": [
+        "A. Ethanol",
+        "B. Methanol",
+        "C. Propanol",
+        "D. Butanol",
+        "E. None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the correct condensed structural formula for 2-methylbutane?",
+      "options": [
+        "A. CH3CH2CH2CH3",
+        "B. CH3CH2CHCH3",
+        "C. CH3CH2CH(CH3)CH3",
+        "D. CH3CH2CH2CH2CH3",
+        "E. None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following describes resonance in organic molecules?",
+      "options": [
+        "A. The ability of molecules to shift between different structures.",
+        "B. The presence of delocalized electrons in a molecule that can be represented by multiple equivalent Lewis structures.",
+        "C. The phenomenon where molecules form different isomers based on the arrangement of atoms.",
+        "D. The ability of carbon to form multiple bonds with hydrogen.",
+        "E. None of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What type of isomerism is exhibited by 1-bromopropane and 2-bromopropane?",
+      "options": [
+        "A. Structural isomerism",
+        "B. Geometric isomerism",
+        "C. Optical isomerism",
+        "D. Conformational isomerism",
+        "E. None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which type of organic reaction involves the replacement of one atom or group by another?",
+      "options": [
+        "A. Addition reaction",
+        "B. Elimination reaction",
+        "C. Substitution reaction",
+        "D. Rearrangement reaction",
+        "E. None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following is an example of a hydrocarbon with only single bonds?",
+      "options": [
+        "A. Alkene",
+        "B. Alkane",
+        "C. Alkyne",
+        "D. Aromatic hydrocarbon",
+        "E. None of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the IUPAC name of the following compound: CH3CH2CH(CH3)CH2OH?",
+      "options": [
+        "A. 2-methyl-1-butanol",
+        "B. 3-methyl-2-butanol",
+        "C. 2-methyl-2-butanol",
+        "D. 3-methyl-1-butanol",
+        "E. None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the correct IUPAC name for the compound with the molecular formula CH3(CH2)4CHO?",
+      "options": [
+        "A. 1-hexanol",
+        "B. Hexanal",
+        "C. Hexanoic acid",
+        "D. 1-hexene",
+        "E. None of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following reagents can selectively oxidize primary alcohols to aldehydes without further oxidation to carboxylic acids?",
+      "options": [
+        "A. Jones reagent",
+        "B. PCC (Pyridinium chlorochromate)",
+        "C. Lindlar's catalyst",
+        "D. Sodium borohydride",
+        "E. None of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the number of carbon atoms present in the simplest aldehyde and ketone?",
+      "options": [
+        "A. 1 and 1",
+        "B. 1 and 3",
+        "C. 2 and 2",
+        "D. 2 and 3",
+        "E. None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which property is not characteristic of carbonyl-containing compounds?",
+      "options": [
+        "A. High dipole moment",
+        "B. High boiling point compared to hydrocarbons",
+        "C. Poor solubility in water",
+        "D. Ability to form hydrogen bonds with water",
+        "E. None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Ketones can be prepared by the oxidation of:",
+      "options": [
+        "A. Primary alcohols",
+        "B. Secondary alcohols",
+        "C. Tertiary alcohols",
+        "D. Aldehydes",
+        "E. None of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following statements is correct?",
+      "options": [
+        "A. The C=O bond of carbonyls is short, strong and very polar",
+        "B. The carbon of the carbonyl is electrophile while the oxygen is nucleophile",
+        "C. The hydrogen on the \u03b1-carbon of a carbonyl is acidic",
+        "D. All of the above",
+        "E. None of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following methods results in the synthesis of carbonyls?",
+      "options": [
+        "A. Ozonolysis of alkenes",
+        "B. Friedel-Crafts alkylation",
+        "C. Reduction of alkynes",
+        "D. None of the above",
+        "E. None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the first step in a nucleophilic addition reaction on a carbonyl group under acidic conditions?",
+      "options": [
+        "A. Protonation of the oxygen of C=O",
+        "B. Addition to oxygen of C=O",
+        "C. Addition to carbon of C=O",
+        "D. Nucleophilic attack",
+        "E. None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following reactions results in the formation of an acetal from a carbonyl?",
+      "options": [
+        "A. Addition of hydrides",
+        "B. Addition of water",
+        "C. Addition of alcohols",
+        "D. Addition of amines",
+        "E. None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the definition of a chiral compound?",
+      "options": [
+        "A. An object that is superimposable on its mirror image",
+        "B. A molecule with a carbon atom with 4 different substituents",
+        "C. A molecule with a plane of symmetry",
+        "D. An object that is non-superimposable on its mirror image",
+        "E. None of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following statements is incorrect?",
+      "options": [
+        "A. The specific rotation of 2 diastereomers has a different absolute value",
+        "B. (+) in front of a chiral compound means that its absolute configuration is R",
+        "C. A racemic mixture of a chiral compound contains equal amount of (+) and (-) compound",
+        "D. The (+) and (-) stereoisomer of the same chiral compound will rotate polarized light equally but in opposite directions",
+        "E. None of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "How many chiral centers does the 2,4-dibromo-1,1,4-trimethylcyclohexane have?",
+      "options": [
+        "A. 0",
+        "B. 1",
+        "C. 2",
+        "D. 3 or more",
+        "E. None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following compound is chiral?",
+      "options": [
+        "A. 1-bromobutane",
+        "B. 2-bromobutane",
+        "C. 2-bromo-2-methylbutane",
+        "D. 3-bromopentane",
+        "E. None of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the enantiomer of the (1S,3S)-1-bromo-3-methylcyclohexane?",
+      "options": [
+        "A. (1S,3R)-1-bromo-3-methylcyclohexane",
+        "B. (1R,3S)-1-bromo-3-methylcyclohexane",
+        "C. (1R,3R)-1-bromo-3-methylcyclohexane",
+        "D. (1S,3S)-1-bromo-3-methylcyclohexane is not chiral",
+        "E. None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the correct IUPAC name for the linear alkane with the chemical formula C7H16?",
+      "options": [
+        "A. Heptanane",
+        "B. Isoheptane",
+        "C. Heptane",
+        "D. Methylhexane",
+        "E. None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In an alkane, what do the terms primary, secondary, tertiary, and quaternary specifically refer to?",
+      "options": [
+        "A. Types of carbon chains",
+        "B. The number of halogen atoms attached",
+        "C. The degree of unsaturation",
+        "D. The number of carbon atoms attached to a given carbon atom",
+        "E. None of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the IUPAC name of the alkane with the following structure: CH3-CH2-CH(CH3)-CH(CH3)2?",
+      "options": [
+        "A. Heptane",
+        "B. 1-methylhexane",
+        "C. 2,3-dimethylpentane",
+        "D. 1,1,2-trimethylbutane",
+        "E. None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The process of separating a complex mixture of alkanes into simpler fractions based on boiling point is known as:",
+      "options": [
+        "A. Polymerization",
+        "B. Cracking",
+        "C. Halogenation",
+        "D. Fractional distillation",
+        "E. None of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which statement accurately describes the reactivity of alkanes?",
+      "options": [
+        "A. Alkanes are highly reactive due to the presence of functional groups",
+        "B. Alkanes are generally unreactive under normal conditions",
+        "C. Alkanes readily undergo substitution reactions but not addition reactions",
+        "D. Alkanes are always involved in combustion reactions",
+        "E. None of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the alkyne addition reactions below involves an enol intermediate?",
+      "options": [
+        "A. Addition of hydrogen halide",
+        "B. Hydroboration - Oxidation",
+        "C. Hydration with HgSO4",
+        "D. None of the above",
+        "E. All of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The triple bond of an alkyne is made up of:",
+      "options": [
+        "A. 3 \u03c3 bonds",
+        "B. 2 \u03c3 bonds + 1 \u03c0 bond",
+        "C. 1 \u03c3 bond + 2 \u03c0 bonds",
+        "D. 3 \u03c0 bonds",
+        "E. None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the IUPAC name for the smallest member of the alkyne series with a carbon-carbon triple bond end position?",
+      "options": [
+        "A. Propyne",
+        "B. Ethylene",
+        "C. Ethyne",
+        "D. Methane",
+        "E. None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the product of the electrophilic addition of one molecule of X2 to an alkyne?",
+      "options": [
+        "A. Geminal dihalide",
+        "B. Vicinal dihalide",
+        "C. Ethyne dihalide",
+        "D. Trans dihalide",
+        "E. None of the above"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which reagent is typically used for the oxidative cleavage of alkynes to give carboxylic acids?",
+      "options": [
+        "A. Ozonolysis (O3)",
+        "B. Hydrogenation (H2)",
+        "C. Sodium amalgam (Na-Hg)",
+        "D. Potassium carbonate (K2CO3)",
+        "E. None of the above"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Alcohols that contain 5 hydorxyl groups are known as",
+      "options": [
+        "A. Monohydric alcohols",
+        "B. Polyhydric alcohols",
+        "C. Pentahydric alcohols",
+        "D. Dihydric alcohols",
+        "E. None of the above"
+      ],
+      "answer": 1
+    }
+  ],
+  "Physics102": [
+    {
+      "question": "What is the force experienced by a charged particle moving through a magnetic field called?",
+      "options": [
+        "a) Electrostatic force",
+        "b) Gravitational force",
+        "c) Magnetic force",
+        "d) Centripetal force"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The direction of the magnetic force on a moving charged particle is given by:",
+      "options": [
+        "a) The electric field direction",
+        "b) The cross product of the velocity and magnetic field vectors",
+        "c) The direction of the charge",
+        "d) The direction of the gravitational field"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the SI unit of magnetic field strength?",
+      "options": [
+        "a) Ampere (A)",
+        "b) Tesla (T)",
+        "c) Newton (N)",
+        "d) Volt (V)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "A charged particle moving parallel to a magnetic field experiences:",
+      "options": [
+        "a) Maximum magnetic force",
+        "b) No magnetic force",
+        "c) Centripetal force",
+        "d) Gravitational force"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following particles will experience a magnetic force when moving through a magnetic field?",
+      "options": [
+        "a) Neutron",
+        "b) Proton",
+        "c) Electron",
+        "d) Both b and c"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The magnetic force on a current-carrying conductor in a magnetic field is proportional to the:",
+      "options": [
+        "a) Length of the conductor",
+        "b) Current flowing through the conductor",
+        "c) Magnetic field strength",
+        "d) All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What happens to the magnetic force if the angle between the velocity of the charged particle and the magnetic field increases?",
+      "options": [
+        "a) The force increases",
+        "b) The force decreases",
+        "c) The force remains constant",
+        "d) The force becomes zero"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which law describes the force between two current-carrying wires?",
+      "options": [
+        "a) Amp\u00e8re's law",
+        "b) Faraday's law",
+        "c) Lenz's law",
+        "d) Coulomb's law"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the formula for the magnetic force on a charged particle moving in a magnetic field?",
+      "options": [
+        "a) F = qvB",
+        "b) F = mv\u00b2",
+        "c) F = qE",
+        "d) F = Bv"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The magnetic field around a magnet is strongest at:",
+      "options": [
+        "a) The north pole",
+        "b) The south pole",
+        "c) The center of the magnet",
+        "d) The poles of the magnet"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the SI unit of electric current?",
+      "options": [
+        "a) Volt (V)",
+        "b) Ampere (A)",
+        "c) Ohm (\u03a9)",
+        "d) Coulomb (C)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is Ohm's Law?",
+      "options": [
+        "a) V = I \u00d7 R",
+        "b) P = I \u00d7 V",
+        "c) V = P \u00d7 I",
+        "d) R = V / I"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following materials is a good conductor of electricity?",
+      "options": [
+        "a) Rubber",
+        "b) Wood",
+        "c) Copper",
+        "d) Plastic"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In a series circuit, the total resistance is:",
+      "options": [
+        "a) The sum of all individual resistances",
+        "b) The reciprocal of the sum of the reciprocals of individual resistances",
+        "c) The resistance of the largest resistor",
+        "d) The average of all resistances"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of the following devices is used to measure electric current?",
+      "options": [
+        "a) Ammeter",
+        "b) Voltmeter",
+        "c) Multimeter",
+        "d) Thermometer"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the unit of electric potential difference?",
+      "options": [
+        "a) Ampere (A)",
+        "b) Volt (V)",
+        "c) Watt (W)",
+        "d) Joule (J)"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What happens to the total resistance when resistors are connected in parallel?",
+      "options": [
+        "a) The total resistance increases",
+        "b) The total resistance decreases",
+        "c) The total resistance remains the same",
+        "d) The total resistance becomes zero"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The power dissipated in a resistor is given by which formula?",
+      "options": [
+        "a) P = I \u00d7 R",
+        "b) P = I\u00b2 \u00d7 R",
+        "c) P = V \u00d7 I",
+        "d) P = V\u00b2 / R"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following statements about electric charge is correct?",
+      "options": [
+        "a) Electric charge can be created and destroyed",
+        "b) Electric charge is always conserved",
+        "c) Only positive charges exist",
+        "d) Only negative charges exist"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In a parallel circuit, the voltage across all components is:",
+      "options": [
+        "a) The same for each component",
+        "b) Different for each component",
+        "c) Equal to the sum of the resistances",
+        "d) Zero"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In a DC circuit, what is the direction of current flow?",
+      "options": [
+        "a) From positive to negative terminal",
+        "b) From negative to positive terminal",
+        "c) From high resistance to low resistance",
+        "d) It depends on the voltage"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What happens to the total resistance in a series DC circuit?",
+      "options": [
+        "a) It decreases",
+        "b) It increases",
+        "c) It remains the same",
+        "d) It depends on the voltage"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the total current in a parallel DC circuit with multiple branches?",
+      "options": [
+        "a) The sum of the currents in each branch",
+        "b) The current in the branch with the lowest resistance",
+        "c) The current in the branch with the highest resistance",
+        "d) The current in the branch with the highest voltage"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which law states that the total voltage around a closed loop is equal to the sum of the voltage drops across each component?",
+      "options": [
+        "a) Ohm's Law",
+        "b) Kirchhoff's Voltage Law",
+        "c) Kirchhoff's Current Law",
+        "d) Faraday's Law"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The total resistance in a parallel circuit with two resistors of equal value is:",
+      "options": [
+        "a) Half of the resistance of one resistor",
+        "b) Equal to the resistance of one resistor",
+        "c) Twice the resistance of one resistor",
+        "d) Zero"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In a DC circuit, what is the effect of increasing the resistance while keeping the voltage constant?",
+      "options": [
+        "a) Current increases",
+        "b) Current decreases",
+        "c) Voltage increases",
+        "d) Power decreases"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the formula for calculating power in a DC circuit?",
+      "options": [
+        "a) P = V \u00d7 I",
+        "b) P = I\u00b2 \u00d7 R",
+        "c) P = V\u00b2 / R",
+        "d) All of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "In a DC circuit, when two resistors are connected in series, the total resistance is:",
+      "options": [
+        "a) The difference between the two resistances",
+        "b) The sum of the two resistances",
+        "c) The product of the two resistances",
+        "d) The average of the two resistances"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the equivalent resistance for two resistors of 4 ohms and 6 ohms connected in parallel?",
+      "options": [
+        "a) 10 ohms",
+        "b) 2.4 ohms",
+        "c) 1.67 ohms",
+        "d) 24 ohms"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the function of a fuse in a DC circuit?",
+      "options": [
+        "a) To regulate the current",
+        "b) To store energy",
+        "c) To protect the circuit by breaking the connection if the current is too high",
+        "d) To increase the voltage"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "In an AC circuit, the current and voltage vary with time in a:",
+      "options": [
+        "a) Constant manner",
+        "b) Linear manner",
+        "c) Sinusoidal manner",
+        "d) Exponential manner"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the unit of frequency in an AC circuit?",
+      "options": [
+        "a) Hertz (Hz)",
+        "b) Ampere (A)",
+        "c) Volt (V)",
+        "d) Ohm (\u03a9)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "In an AC circuit, the root mean square (RMS) value of current is:",
+      "options": [
+        "a) The average of the instantaneous current values",
+        "b) The square root of the average of the square of the instantaneous current",
+        "c) Equal to the peak current",
+        "d) Zero"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What happens to the impedance of a series RLC circuit as the frequency of the AC supply increases?",
+      "options": [
+        "a) It decreases",
+        "b) It increases",
+        "c) It remains the same",
+        "d) It becomes zero"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In a purely resistive AC circuit, the phase difference between current and voltage is:",
+      "options": [
+        "a) 90\u00b0",
+        "b) 180\u00b0",
+        "c) 0\u00b0",
+        "d) 45\u00b0"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the power factor in an AC circuit with a purely inductive load?",
+      "options": [
+        "a) 1",
+        "b) 0",
+        "c) 0.5",
+        "d) -1"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "In an AC circuit, the voltage and current are related by which type of function?",
+      "options": [
+        "a) Linear function",
+        "b) Sinusoidal function",
+        "c) Exponential function",
+        "d) Polynomial function"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the impedance of a series RLC circuit at resonance?",
+      "options": [
+        "a) Zero",
+        "b) Maximum",
+        "c) Equal to the resistance",
+        "d) Equal to the inductive reactance"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Which of the following describes the effect of a capacitor in an AC circuit?",
+      "options": [
+        "a) It causes the current to lag the voltage by 90\u00b0",
+        "b) It causes the voltage to lead the current by 90\u00b0",
+        "c) It has no effect on the current",
+        "d) It causes no phase difference between current and voltage"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the formula for calculating the impedance of a series RLC circuit?",
+      "options": [
+        "a) Z = R + L + C",
+        "b) Z = \u221a(R\u00b2 + (XL - XC)\u00b2)",
+        "c) Z = R + (XL - XC)",
+        "d) Z = R \u00d7 L \u00d7 C"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following is NOT one of the four fundamental forces of nature?",
+      "options": [
+        "a) Gravitational force",
+        "b) Electromagnetic force",
+        "c) Nuclear force",
+        "d) Centripetal force"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What is the force that causes objects to fall towards the Earth?",
+      "options": [
+        "a) Magnetic force",
+        "b) Gravitational force",
+        "c) Electromagnetic force",
+        "d) Nuclear force"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The force that causes like charges to repel and opposite charges to attract is:",
+      "options": [
+        "a) Gravitational force",
+        "b) Electromagnetic force",
+        "c) Weak nuclear force",
+        "d) Strong nuclear force"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which force is responsible for holding the nucleus of an atom together?",
+      "options": [
+        "a) Gravitational force",
+        "b) Electromagnetic force",
+        "c) Weak nuclear force",
+        "d) Strong nuclear force"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Which of the following forces acts over very short distances and is responsible for radioactive decay?",
+      "options": [
+        "a) Gravitational force",
+        "b) Electromagnetic force",
+        "c) Weak nuclear force",
+        "d) Strong nuclear force"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The force that acts between any two objects with mass is called:",
+      "options": [
+        "a) Electromagnetic force",
+        "b) Gravitational force",
+        "c) Strong nuclear force",
+        "d) Weak nuclear force"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the primary difference between gravitational force and electromagnetic force?",
+      "options": [
+        "a) Gravitational force acts only on particles with charge",
+        "b) Gravitational force is attractive, while electromagnetic force can be both attractive and repulsive",
+        "c) Electromagnetic force is weaker than gravitational force",
+        "d) Gravitational force is stronger than the electromagnetic force"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Which of the following forces is responsible for the interaction between quarks in an atom?",
+      "options": [
+        "a) Gravitational force",
+        "b) Electromagnetic force",
+        "c) Strong nuclear force",
+        "d) Weak nuclear force"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the primary reason why gravitational force is so weak compared to other forces like the electromagnetic force?",
+      "options": [
+        "a) Gravitational force only acts at short distances",
+        "b) Gravitational force is a long-range force but acts weakly",
+        "c) Gravitational force is only effective on massive objects",
+        "d) Gravitational force is stronger at high altitudes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The force that causes the Sun to shine by fusing hydrogen atoms is:",
+      "options": [
+        "a) Electromagnetic force",
+        "b) Gravitational force",
+        "c) Nuclear fusion force",
+        "d) Strong nuclear force"
+      ],
+      "answer": 3
+    }
+  ],
+  "Maths102": [
+    {
+      "question": "In the function f(x) = 3x, what is the limit of f(x) as x approaches 2?",
+      "options": [
+        "3",
+        "6/2",
+        "6",
+        "6/3",
+        "None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "What is the symbol used for limit with calculus?",
+      "options": [
+        "Lim x",
+        "Lim of x",
+        "Lim\u2192x",
+        "X\u2192\u221e",
+        "None of the above"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Let the position of a moving particle be denoted by the relation S = -16t^2 + 400, where t is the time in seconds. Determine the initial velocity given that S is measured in metres.",
+      "options": [
+        "19m/s",
+        "50m/s",
+        "-20m/s",
+        "0m/s",
+        "5m/s"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "What differential rule is most suitable for the function Y = \u221a(ax^2 + b)?",
+      "options": [
+        "Product rule",
+        "Quotient rule",
+        "Function of a function",
+        "Index rule",
+        "Chain rule"
+      ],
+      "answer": 4
+    },
+    {
+      "question": "In which of these functions is the quotient rule more suitable to use?",
+      "options": [
+        "Y = e^x",
+        "Y = X^x",
+        "Y = (7x^2 + 2)/(x + x^3)",
+        "Y = sin(3x + e^(2x))",
+        "Y = cos(2sinx + x)"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "If x approaches a number 'c' as F(x) approaches a number L, what does L stand for?",
+      "options": [
+        "Limit",
+        "Continuity",
+        "First derivative",
+        "Second derivative",
+        "Tangent"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Which of these is not a criterion for determining the continuity of a function?",
+      "options": [
+        "The limit of the function F(x) must exist as x is tending to x`",
+        "The limit of F(x) must equal F(x`)",
+        "F(x`) must exist",
+        "It must be differentiable",
+        "None of the above"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "Find the tangent to the curve y=3x^2+x+4 at x=3.",
+      "options": [
+        "19",
+        "1.9",
+        "18",
+        "16",
+        "74"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Find the tangent to the curve y=7x^3-2x^2 at the point x=2.",
+      "options": [
+        "67",
+        "76",
+        "46",
+        "64",
+        "89"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Find the equation of the tangent to the curve 2x^2+3y^2=3 at the point (3,4).",
+      "options": [
+        "x+2y=11",
+        "x-2y=11",
+        "-x+2y=11",
+        "x-2y=-11",
+        "-x-2y=11"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Find the tangent to the curve y=5x^4-3x^2+2x-1 at x=1.",
+      "options": [
+        "15",
+        "14",
+        "16",
+        "17",
+        "22"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The definite integral of a function over an interval gives the:",
+      "options": [
+        "a) Area under the curve between the limits",
+        "b) Slope of the function",
+        "c) Derivative of the function",
+        "d) Maximum value of the function"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The integral of a constant function is:",
+      "options": [
+        "a) The constant times x",
+        "b) Zero",
+        "c) The constant squared",
+        "d) The constant divided by x"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the derivative of a constant function?",
+      "options": [
+        "a) 0",
+        "b) 1",
+        "c) The constant itself",
+        "d) Undefined"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The rate of change of the function  f(x) = x^2 + 3x  at  x = 2  is:",
+      "options": [
+        "a) 7",
+        "b) 5",
+        "c) 10",
+        "d) 8"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Find the slope of the tangent to the curve  y = 3x^3 - 5x^2 + 2x  at  x = 1 :",
+      "options": [
+        "a) 4",
+        "b) 3",
+        "c) 6",
+        "d) 5"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "For the function  f(x) = 2x^3 - 4x^2 + x , the rate of change at  x = 0  is:",
+      "options": [
+        "a) 0",
+        "b) -1",
+        "c) 1",
+        "d) 2"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the slope of the tangent to the curve  y = 4x^2 + 3x - 1  at  x = -1 ?",
+      "options": [
+        "a) 1",
+        "b) -5",
+        "c) 0",
+        "d) -3"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The equation of the tangent to the curve  y = x^2 - 2x + 4  at  x = 1  is:",
+      "options": [
+        "a)  y = 2x + 2 ",
+        "b)  y = x + 3 ",
+        "c)  y = 2x + 1 ",
+        "d)  y = x - 2 "
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The rate of change of  f(x) = 5x^4 - 3x^2 + 2  at  x = 2  is:",
+      "options": [
+        "a) 64",
+        "b) 122",
+        "c) 90",
+        "d) 120"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "For the function  y = x^2 + 2x + 1 , what is the rate of change at  x = -1 ?",
+      "options": [
+        "a) 0",
+        "b) 1",
+        "c) -1",
+        "d) -2"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Find the equation of the normal line to the curve  y = x^2 + 3x  at  x = 1 :",
+      "options": [
+        "a)  y = -2x + 3 ",
+        "b)  y = -x + 2 ",
+        "c)  y = 2x + 1 ",
+        "d)  y = x + 3 "
+      ],
+      "answer": 0
+    },
+    {
+      "question": "For the curve  y = x^3 - 3x + 1 , the slope of the normal at  x = 1  is:",
+      "options": [
+        "a) -4",
+        "b) 4",
+        "c) 3",
+        "d) -2"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "For the function  f(x) = 2x^2 - 3x + 5 , the rate of change at  x = 1  is:",
+      "options": [
+        "a) 1",
+        "b) 4",
+        "c) -1",
+        "d) 2"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the equation of the tangent line to the curve  y = 2x^2 + 3x - 5  at  x = -2 ?",
+      "options": [
+        "a)  y = 4x + 1 ",
+        "b)  y = -4x - 1 ",
+        "c)  y = -4x + 3 ",
+        "d)  y = 4x - 3 "
+      ],
+      "answer": 2
+    },
+    {
+      "question": "For the curve  y = x^4 - 2x^2 + 3 , the rate of change at  x = 1  is:",
+      "options": [
+        "a) 2",
+        "b) 3",
+        "c) 1",
+        "d) 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "What is the slope of the tangent line to the curve  y = 4x^2 - 3x + 2  at  x = 1 ?",
+      "options": [
+        "a) 5",
+        "b) 4",
+        "c) 3",
+        "d) 7"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "For the curve  y = 2x^3 - x^2 + 4 , what is the rate of change at  x = 2 ?",
+      "options": [
+        "a) 20",
+        "b) 26",
+        "c) 18",
+        "d) 16"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Find the equation of the normal to the curve  y = x^2 + 2x + 3  at  x = 0 :",
+      "options": [
+        "a)  y = -x + 3 ",
+        "b)  y = -2x + 3 ",
+        "c)  y = x + 2 ",
+        "d)  y = 2x + 3 "
+      ],
+      "answer": 1
+    },
+    {
+      "question": "For the function  f(x) = x^3 - 2x^2 + 5x - 7 , the rate of change at  x = 2  is:",
+      "options": [
+        "a) 8",
+        "b) 10",
+        "c) 5",
+        "d) 7"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "What is the slope of the tangent line to the curve  y = 5x^2 - 4x + 1  at  x = 1 ?",
+      "options": [
+        "a) 5",
+        "b) 6",
+        "c) 3",
+        "d) 4"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Find the equation of the normal line to the curve  y = x^2 - 2x + 1  at  x = 1 :",
+      "options": [
+        "a)  y = -2x + 4 ",
+        "b)  y = -x + 2 ",
+        "c)  y = -x + 3 ",
+        "d)  y = 2x + 3 "
+      ],
+      "answer": 0
+    },
+    {
+      "question": "For the function  f(x) = 3x^2 - 2x + 1 , what is the rate of change at  x = -1 ?",
+      "options": [
+        "a) -5",
+        "b) 7",
+        "c) 5",
+        "d) -7"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "For the function  y = 2x^3 - 3x^2 + 4x , the rate of change at  x = 2  is:",
+      "options": [
+        "a) 4",
+        "b) 8",
+        "c) 10",
+        "d) 5"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The area under the curve  y = 3x^2  from  x = 0  to  x = 2  is:",
+      "options": [
+        "a) 12",
+        "b) 8",
+        "c) 6",
+        "d) 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The area between the curve  y = x^3  and the x-axis from  x = 1  to  x = 3  is:",
+      "options": [
+        "a) 9",
+        "b) 16",
+        "c) 8",
+        "d) 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Find the average value of the function  f(x) = 2x + 3  on the interval  [1, 4] :",
+      "options": [
+        "a) 7",
+        "b) 8",
+        "c) 9",
+        "d) 10"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The work done by a force  F(x) = 2x  over the interval  [1, 3]  is:",
+      "options": [
+        "a) 4",
+        "b) 6",
+        "c) 8",
+        "d) 10"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The surface area of the solid generated by rotating the curve  y = x^2  around the x-axis from  x = 1  to  x = 3  is:",
+      "options": [
+        "a) 18\u03c0",
+        "b) 20\u03c0",
+        "c) 22\u03c0",
+        "d) 24\u03c0"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The area of the region bounded by the curves  y = x^2  and  y = 4  is:",
+      "options": [
+        "a) 8",
+        "b) 16",
+        "c) 4",
+        "d) 10"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Find the average value of the function  f(x) = x^2  on the interval  [0, 2] :",
+      "options": [
+        "a) 2",
+        "b) 4",
+        "c) 3",
+        "d) 1"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The work done by a variable force  F(x) = 3x^2  from  x = 1  to  x = 2  is:",
+      "options": [
+        "a) 5",
+        "b) 6",
+        "c) 7",
+        "d) 8"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The area under the curve  y = 2x + 1  from  x = 0  to  x = 4  is:",
+      "options": [
+        "a) 14",
+        "b) 16",
+        "c) 15",
+        "d) 18"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The center of mass of a disk with uniform density and radius  R  is located at the center of the disk. What is the radius of a small ring of mass  dm  at a distance  r  from the center?",
+      "options": [
+        "a)  r^2 ",
+        "b)  r ",
+        "c)  r^3 ",
+        "d)  r^4 "
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The work done by a variable force  F(x) = x^2 + 3  over the interval  x = 0  to  x = 2  is:",
+      "options": [
+        "a) 12",
+        "b) 16",
+        "c) 20",
+        "d) 24"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The work done in moving a particle along the curve  y = x^2  from  x = 0  to  x = 1  by a constant force  F = 3  is:",
+      "options": [
+        "a) 3",
+        "b) 2",
+        "c) 1",
+        "d) 4"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "The total work done by the force  F(x) = 5x  from  x = 0  to  x = 2  is:",
+      "options": [
+        "a) 5",
+        "b) 6",
+        "c) 7",
+        "d) 10"
+      ],
+      "answer": 3
+    },
+    {
+      "question": "The volume of the solid generated by revolving the region under the curve  y = x^2 + 1  from  x = 0  to  x = 2  about the x-axis is:",
+      "options": [
+        "a) \u03c0",
+        "b) 17\u03c0 / 3",
+        "c) 9\u03c0",
+        "d) 19\u03c0 / 3"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "The volume of the solid generated by revolving the region under the curve  y = e^x  from  x = 0  to  x = 1  about the x-axis is:",
+      "options": [
+        "a) 2\u03c0(e - 1)",
+        "b) \u03c0(e - 1)",
+        "c) \u03c0(e + 1)",
+        "d) 2\u03c0(e + 1)"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "The volume of the solid generated by revolving the region bounded by  y = 4 - x^2  and the x-axis from  x = -2  to  x = 2  about the x-axis is:",
+      "options": [
+        "a) 32\u03c0 / 3",
+        "b) 64\u03c0 / 3",
+        "c) 16\u03c0",
+        "d) 8\u03c0"
+      ],
+      "answer": 1
+    }
+  ]
+}

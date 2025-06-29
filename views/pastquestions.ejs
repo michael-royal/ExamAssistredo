@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<%- include('./partials/head.ejs') %>
+<body>
+<%- include('./partials/preloader.ejs') %>
+    
+<%- include('./partials/authheader.ejs') %>
+
+   
+    <main class="py-4">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <h2 class="mb-4"><i class="bi bi-file-earmark-text me-2"></i>Past Questions</h2>
+                    
+                    <!-- Search and Filter -->
+                    <div class="card mb-4 border-0 shadow-sm">
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col-md-3 mb-3">
+                                    <label for="filterSemester" class="form-label">Filter by Semester</label>
+                                    <select class="form-select" id="filterSemester">
+                                        <option value="">All Semesters</option>
+                                        <option value="First Semester">First Semester</option>
+                                        <option value="Second Semester">Second Semester</option>
+                                    </select>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Questions List -->
+                    <div id="questionsList">
+                        <!-- Questions will be loaded here -->
+                    </div>
+
+            
+                </div>
+            </div>
+        </div>
+    </main>
+
+
+
+<%- include('./partials/scripts.ejs') %>
+
+ <script>
+   let allQuestions;
+
+        document.addEventListener('DOMContentLoaded', () => {
+            loadQuestions();
+            setupEventListeners();
+        });
+
+        function loadQuestions() {
+            fetch('/json/pdfs.json').then(res => res.json()).then(data => {
+                allQuestions = data
+            })
+            setTimeout(() => {
+                displayQuestions(allQuestions);
+            }, 3000);
+        }
+
+        function displayQuestions(questions) {
+            const questionsList = document.getElementById('questionsList');
+            
+            if (questions.length === 0) {
+                questionsList.innerHTML = `
+                    <div class="text-center py-5">
+                        <i class="bi bi-file-earmark-x display-1 text-muted mb-3"></i>
+                        <h5 class="text-muted">No questions found</h5>
+                        <p>Try adjusting your search criteria</p>
+                    </div>
+                `;
+                return;
+            }
+
+            questionsList.innerHTML = questions.map(question => `
+                <div class="card mb-3 border-0 shadow-sm">
+                    <div class="card-body">
+                        <div class="row align-items-center">
+                            <div class="col-md-8">
+                                <h5 class="card-title mb-2">${question.course}</h5>
+                                <p class="card-text mb-1">
+                                    <strong>Semester:</strong> ${question.semester}<br>
+                                    <strong>Uploaded by:</strong> ${question.uploadedBy}
+                                </p>
+                            </div>
+                            <div class="col-md-4 text-md-end">
+                                <a class="btn btn-primary me-2" href="${question.downloadUrl}" download="">
+                                    Download
+                                </a>
+                                <a class="btn btn-outline-secondary" target="_blank" href="${question.downloadUrl}">
+                                    Preview
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        function filterQuestions() {
+            const semesterFilter = document.getElementById('filterSemester').value;
+
+            let filtered = allQuestions.filter(question => {
+                const matchesSemester = !semesterFilter || question.semester === semesterFilter;
+
+                return  matchesSemester 
+            });
+
+            displayQuestions(filtered);
+        }
+
+
+
+      
+
+        function setupEventListeners() {
+            // Search as you type
+            document.getElementById('filterSemester').addEventListener('change', filterQuestions);
+
+        }
+    </script>
+</body>
+</html>

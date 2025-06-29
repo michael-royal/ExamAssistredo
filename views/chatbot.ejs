@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<%- include('./partials/head.ejs') %>
+<body>
+<%- include('./partials/preloader.ejs') %>
+
+<%- include('./partials/authheader.ejs') %>
+
+<main class="py-4">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8">
+                <div class="card border-0 shadow-sm">
+                    <div class="card-header bg-transparent">
+                        <div class="d-flex align-items-center">
+                            <div class="avatar me-3">
+                                <i class="bi bi-robot"></i>
+                            </div>
+                            <div>
+                                <h4 class="mb-0">Assist AI</h4>
+                                <small class="text-muted">Your AI Study Assistant</small>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Chat Container -->
+                    <div class="chat-container p-3" id="chat-box" style="height: 400px; overflow-y: auto; border-top: 1px solid #dee2e6; border-bottom: 1px solid #dee2e6;">
+                        <div class="message bot">
+                            <div class="avatar">
+                                <i class="bi bi-robot"></i>
+                            </div>
+                            <div class="message-content">
+                                Hi there! <span><%= username %></span> I'm Assist AI, your AI study assistant. I'm here to help you with your studies, answer questions about various subjects, provide study tips, and assist with exam preparation. What would you like to know today?
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Image Preview -->
+                    <div id="preview" class="p-2"></div>
+
+                    <!-- Chat Input -->
+                    <div class="card-footer bg-transparent">
+                        <div class="d-flex gap-2 align-items-center">
+                            <input type="text" class="form-control" id="message" placeholder="Ask me anything about your studies...">
+                            <input type="file" id="image" accept="image/*" hidden multiple>
+                            <label for="image" class="btn btn-outline-secondary"><i class="bi bi-image"></i></label>
+                            <button type="button" class="btn btn-primary" id="sendBtn">
+                                <i class="bi bi-send"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Quick Actions -->
+                <div class="card mt-4 border-0 shadow-sm">
+                    <div class="card-header bg-transparent">
+                        <h5 class="mb-0"><i class="bi bi-lightning me-2"></i>Quick Help Topics</h5>
+                    </div>
+                    <div class="card-body">
+                        <div class="row g-2">
+                            <div class="col-md-6">
+                                <button class="btn btn-outline-primary w-100 mb-2" onclick="askQuestion('How can I improve my study habits?')">
+                                    <i class="bi bi-book me-1"></i>Study Habits
+                                </button>
+                            </div>
+                            <div class="col-md-6">
+                                <button class="btn btn-outline-success w-100 mb-2" onclick="askQuestion('What are some effective exam preparation strategies?')">
+                                    <i class="bi bi-trophy me-1"></i>Exam Prep
+                                </button>
+                            </div>
+                            <div class="col-md-6">
+                                <button class="btn btn-outline-info w-100 mb-2" onclick="askQuestion('How do I manage time during exams?')">
+                                    <i class="bi bi-clock me-1"></i>Time Management
+                                </button>
+                            </div>
+                            <div class="col-md-6">
+                                <button class="btn btn-outline-warning w-100 mb-2" onclick="askQuestion('How can I reduce exam anxiety?')">
+                                    <i class="bi bi-heart me-1"></i>Stress Relief
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</main>
+
+<%- include('./partials/scripts.ejs') %>
+<script src="/javascript/chatbot.js"></script>
+</body>
+</html>
+ 

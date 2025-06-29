@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<%- include('./partials/head.ejs') %>
+<body>
+<%- include('./partials/preloader.ejs') %>
+    
+<%- include('./partials/header.ejs') %>
+
+
+ <main class="min-vh-100 row justify-content-center">
+                <div class="col-md-4 col-lg-5">
+                    <div class="card  border-0 m-1" >
+                        <div class="card-body p-5">
+                            <div class="text-center mb-4">
+                                <h2 class="fw-bold text-primary">Welcome Back</h2>
+                                <p class="text-muted">Sign in to your account or create a new one</p>
+                            </div>
+
+                            <!-- Login/Signup Toggle -->
+                            <ul class="nav nav-pills nav-justified mb-4" id="authTabs" role="tablist">
+                                <li class="nav-item" role="presentation">
+                                    <button class="nav-link active" id="login-tab" data-bs-toggle="pill" data-bs-target="#login" type="button" role="tab">
+                                        Login
+                                    </button>
+                                </li>
+                                <li class="nav-item" role="presentation">
+                                    <button class="nav-link" id="signup-tab" data-bs-toggle="pill" data-bs-target="#signup" type="button" role="tab">
+                                        Sign Up
+                                    </button>
+                                </li>
+                            </ul>
+
+                            <div class="tab-content" id="authTabsContent">
+                                <!-- Login Form -->
+                                <div class="tab-pane fade show active" id="login" role="tabpanel">
+                                    <form id="loginForm" method="post" action="/user_logged_in">
+                                        <div class="mb-3">
+                                            <label for="loginEmail" class="form-label">Email</label>
+                                            <input type="email" class="form-control" id="loginEmail" name="emaile" required>
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="loginPassword" class="form-label">Password</label>
+                                            <div class="fidt" id="fidt">
+                                                <input type="password" class="form-control" id="loginPassword" name="passwordw" required>
+                                                <div class="ic" id="ic">
+                                                    <img src="/images/icons/askdlfj.png" alt="" class="cci m-2  d-none">
+                                                    <img src="/images/icons/Untitled-3.png" alt="" class="cci m-2 ">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="mb-3 form-check">
+                                            <input type="checkbox" class="form-check-input" id="rememberMe">
+                                            <label class="form-check-label" for="rememberMe">Remember me</label>
+                                        </div>
+                                        <button type="submit" class="btn btn-primary w-100">Login</button>
+                                    </form>
+                                </div>
+
+                                <!-- Signup Form -->
+                                <div class="tab-pane fade" id="signup" role="tabpanel">
+                                    <form id="signupForm" action="/sign_new_user" method="post" enctype="multipart/form-data">
+                                     <div class="row">
+                                           <div class="mb-3 col-md-6">
+                                            <label for="signupName" class="form-label">Full Name</label>
+                                            <input type="text" class="form-control" id="signupName" name="fullname" required>
+                                        </div>
+                                        <div class="mb-3 col-md-6">
+                                            <label for="signupEmail" class="form-label">Email</label>
+                                            <input type="email" class="form-control" id="signupEmail" name="email" required>
+                                        </div>
+                                     </div>
+                                        <div class="mb-3">
+                                            <label for="phone" class="form-label">Phone</label>
+                                            <input type="text" class="form-control" id="phone" name="phone" required>
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="dob" class="form-label">Date of birth</label>
+                                            <input type="date" class="form-control" id="dob" name="dob" required>
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="confirmpwd">Gender</label>
+                                            <select id="gender" name="gender" class="form-select">
+                                                <option value=" ">Choose...</option>
+                                                <option value="Male">Male</option>
+                                                <option value="female">Female</option>
+                                            </select>
+                                        </div>
+                                        <div class="row">
+                                             <div class="mb-3 col-md-6">
+                                            <label for="faculty">Faculty</label>
+                                            <select id="faculty" name="faculty" class="form-select">
+                                                <option value=" ">Choose...</option>
+                                                <option value="Basic Medical Science">Basic Medical Sciences</option>
+                                                <option value="Science">Science</option>
+                                                <option value="Engineering">Engineering</option>
+                                                <option value="Education">Education</option>
+                                                <option value="Agriculture">Agriculture</option>
+                                            </select>
+                                        </div>
+                                        <div class="mb-3 col-md-6">
+                                            <label for="department">Department</label>
+                                            <select id="inputState" name="department" class="form-select">
+                                                <option value=" ">Choose...</option>
+                                                <option value="Mathematics">Mathematics</option>
+                                                <option value="Chemistry">Chemistry</option>
+                                                <option value="Physics">Physics</option>
+                                                <option value="PSB">Plant Science and Biotechnology</option>
+                                                <option value="MCB">Micro Biology</option>
+                                                <option value="AEB">Animal and Enivronmental Biology</option>
+                                                <option value="Mari-time">Maritime Science</option>
+                                                <option value="BCH">Biochemistry</option>
+                                                <option value="Computer Science">Computer Science</option>
+                                                <option value="Medicine and Surgery">Medicine and Surgery</option>
+                                                <option value="Medical Laboratory Science">Medical Laboratory Science</option>
+                                                <option value="Petroleum Engineering">Petroleum Engineering</option>
+                                                <option value="Mechanical Engineering">Mechanical Engineering</option>
+                                                <option value="Electrical/Electronics Engineering">Electrical/Electronics Engineering</option>
+                                                <option value="Chemical/Petrochemical Engineering">Chemical/Petrochemical Engineering</option>
+                                                <option value="Computer Engineering">Computer Engineering</option>
+                                                <option value="Marine Engineering">Marine Engineering</option>
+                                                <option value="Agricultural and Environmental engineering">Agricultural and Environmental engineering </option>
+                                                <option value="Science and Technical Education">Science and Technical Education</option>
+                                                <option value="Animal Science">Animal Science</option>
+                                                <option value="Nursing">Nursing</option>
+                                                <option value="Public Health">Public Health</option>
+                                                <option value="Anatomy">Anatomy</option>
+                                                <option value="Radiography">Radiography</option>
+                                                <option value="Physiotherapy">Physiotherapy</option>
+                                                <option value="Crop/Soil Science">Crop/soil Science</option>
+                                                <option value="Food science and Technology">Food Science and Technology</option>
+                                            </select>
+                                        </div>
+                                        </div>
+                                        <div class="mb-3">
+                                            <label for="level">Level</label>
+                                            <input type="text" id="level" name="level" value="100" class="form-control" readonly>
+                                        </div>
+                                        <div class="mb-3">
+                                             <label for="faculty">Profile Pic (optional...)</label>
+                                             <input type="file" class="form-control"   id="profile" name="profile">
+                                        </div>
+                                        <div class="row">
+                                            <div class="mb-3 col-md-6">
+                                                <label for="signupPassword" class="form-label">Password</label>
+                                                <div class="fidt" id="fidt">
+                                                <input type="password" class="form-control" name="password" id="signupPassword" required>
+                                                <div class="ic" id="ic">
+                                                    <img src="/images/icons/askdlfj.png" alt="" class="cci m-2  d-none">
+                                                    <img src="/images/icons/Untitled-3.png" alt="" class="cci m-2 ">
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="mb-3 col-md-6">
+                                            <label for="confirmPassword" class="form-label">Confirm Password</label>
+                                            <div class="fidt" id="fidt">
+                                                <input type="password" class="form-control" id="confirmPassword" name="confirmpwd" required>
+                                                <div class="ic" id="ic">
+                                                    <img src="/images/icons/askdlfj.png" alt="" class="cci m-2  d-none">
+                                                    <img src="/images/icons/Untitled-3.png" alt="" class="cci m-2 ">
+                                                 </div>
+                                            </div>
+                                        </div>
+                                        </div>
+                                        <div class="mb-3 form-check">
+                                            <input type="checkbox" class="form-check-input" id="agreeTerms" name="agree" required>
+                                            <label class="form-check-label" for="agreeTerms">
+                                                I agree to the Terms of Service
+                                            </label>
+                                        </div>
+                                        <button type="submit" class="btn btn-primary w-100">Create Account</button>
+                                    </form>
+                                </div>
+                            </div>
+
+                            <div class="text-center mt-4">
+                                <p class="text-muted">
+                                    <small>Demo credentials: any email/password combination will work</small>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>    
+    </main>
+
+
+
+<%- include('./partials/footer.ejs') %>
+<%- include('./partials/scripts.ejs') %>
+</body>
+</html>

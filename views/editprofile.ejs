@@ -1,0 +1,250 @@
+<!DOCTYPE html>
+<html lang="en">
+<%- include('./partials/head.ejs') %>
+<body>
+
+<%- include('./partials/preloader.ejs') %>
+
+    
+<%- include('./partials/authheader.ejs') %>
+
+
+ <main class="py-4">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-lg-8">
+                    <div class="card border-0 shadow-sm">
+                        <div class="card-header bg-transparent">
+                            <h3 class="mb-0"><i class="bi bi-person-gear me-2"></i>Edit Profile</h3>
+                        </div>
+                        <div class="card-body p-4">
+                            <!-- Current Profile Info -->
+                            <div class="text-center mb-4">
+                                <div class="position-relative d-inline-block">
+                                    <img id="currentAvatar" src="<%= pic %>" 
+                                         alt="Current Avatar" class="profile-avatar mb-3">
+                                    <div class="position-absolute bottom-0 end-0">
+                                        <label for="profile" class="btn btn-primary btn-sm rounded-circle" data-bs-toggle="modal" data-bs-target="#uploadModal">
+                                            <i class="bi bi-camera"></i>
+                                        </label>
+                                    </div>
+                                </div>
+                                <h5 class="mb-1" data-user-name><%= name %></h5>
+                            </div>
+
+                            <form id="profileForm" action="/edit_user_info" method="post" enctype="multipart/form-data">
+                                      <div class="row">
+                                          <div class="col-md-6 p-3 mb-3">
+                                            <label for="signupName" class="form-label">Full Name</label>
+                                            <input type="text" class="form-control card disabled " id="signupName" name="name" value="<%= name %>" readonly required>
+                                        </div>
+                                        <div class="col-md-6 p-3 mb-3">
+                                            <label for="signupEmail" class="form-label">Email</label>
+                                            <input type="email" class="form-control card disabled " id="signupEmail" value="<%= email %>" name="email" readonly required>
+                                        </div>
+                                      </div>
+                                     <div class="row">
+                                           <div class="col-md-6 mb-3">
+                                            <label for="phone" class="form-label">Phone</label>
+                                            <input type="text" class="form-control card disabled " id="phone" value="<%= phone %>" name="phone" readonly required>
+                                        </div>
+                                        <%  %>
+                                        <div class="col-md-6 mb-3">
+                                            <label for="dob" class="form-label">Date of birth</label>
+                                            <input type="text" class="form-control card  " id="dob" name="dob" value="<%= dob %>" readonly required>
+                                        </div>
+                                     </div>
+                                       <div class="row">
+                                            <div class="col-md-6 mb-3">
+                                                <label for="department">Department</label>
+                                                    <input class="form-control card" value=" <%= department %>">
+                                                   
+                                          
+                                            </div>
+                                            <div class="col-md-6 mb-3">
+                                                <label for="faculty">Faculty</label>
+                                                    <input class="form-control card" value="<%= faculty %> ">
+                                       
+                                            </div>
+                                       </div>
+                                      <div class="row">
+                                          <div class="col-md-6 mb-3">
+                                            <label for="confirmpwd">Gender</label>
+                     
+                                                <input value="<%= gender %>" class="form-control card">
+                                               
+                                 
+                                        </div>
+                                      
+                                        <div class="col-md-6 mb-3">
+                                            <label for="level">Level</label>
+                                            <input type="text" id="level" name="level"  value="<%= level %>" class="form-control card disabled" readonly>
+                                        </div>
+                                      </div>
+
+                            
+
+
+                                      
+                                <div class="d-flex justify-content-between mt-4">
+                                    <a href="/dashboard" class="btn btn-outline-secondary">
+                                        <i class="bi bi-arrow-left me-1"></i>To Dashboard
+                                    </a>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+
+                    
+<div class="modal fade" id="inputModal" tabindex="-1" aria-labelledby="inputModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content">
+        <form action="/passwordchange" method="POST">
+          <div class="modal-header">
+            <h5 class="modal-title" id="inputModalLabel">Enter Your Info</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+
+          <div class="modal-body">
+            <!-- Password Field with Toggle -->
+            <div class="mb-3">
+              <label for="passwordInput" class="form-label">Password</label>
+              <div class="input-group">
+                <input type="password" class="form-control" id="passwordInput" name="password" placeholder="Enter password" required>
+                <button class="btn btn-outline-secondary" type="button" id="togglePassword">
+                  <i class="bi bi-eye-slash" id="toggleIcon"></i>
+                </button>
+              </div>
+            </div>
+          </div>
+
+          <div class="modal-footer">
+            <button type="submit" class="btn btn-primary w-100">Submit</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+
+   <div class="modal fade" id="confirmModal" tabindex="-1" aria-labelledby="confirmModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="confirmModalLabel">Confirm Action</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+
+        <div class="modal-body">
+          Are you sure you want to delete your account? This action cannot be undone.
+        </div>
+
+        <div class="modal-footer">
+          <!-- Cancel Button -->
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+
+          <!-- Agree Button that triggers a POST to API -->
+          <a href="#" id="agreeBtn" class="btn btn-danger">Agree</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+  
+  <!-- Modal -->
+  <div class="modal fade" id="uploadModal" tabindex="-1" aria-labelledby="uploadModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+      <div class="modal-content">
+        <form action="/change_dp" method="POST" enctype="multipart/form-data">
+          <div class="modal-header">
+            <h5 class="modal-title" id="uploadModalLabel">Upload a File</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+
+          <div class="modal-body">
+            <div class="mb-3">
+              <label for="fileInput" class="form-label">Choose a file</label>
+              <input type="file" class="form-control" id="fileInput" name="uploadedFile" required>
+            </div>
+          </div>
+
+          <div class="modal-footer">
+            <button type="submit" class="btn btn-success w-100">Submit</button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+                    <!-- Account Settings -->
+                    <div class="card mt-4 border-0 shadow-sm">
+                        <div class="card-header bg-transparent">
+                            <h6 class="mb-0"><i class="bi bi-shield-lock me-2"></i>Account Settings</h6>
+                        </div>
+                        <div class="card-body">
+                            <div class="row">
+                                <div class="col-md-6 mb-3">
+                                    <button class="btn btn-outline-warning w-100" data-bs-toggle="modal" data-bs-target="#inputModal">
+                                        <i class="bi bi-key me-2"></i>Change Password
+                                    </button>
+                                </div>
+                                <div class="col-md-6 mb-3">
+                                    <button class="btn btn-outline-danger w-100"  data-bs-toggle="modal" data-bs-target="#confirmModal" >
+                                        <i class="bi bi-exclamation-triangle me-2"></i>Delete Account
+                                    </button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+
+<%- include('./partials/scripts.ejs') %>
+
+<script>
+ const toggleBtn = document.getElementById('togglePassword');
+    const toggleIcon = document.getElementById('toggleIcon');
+    const passwordInput = document.getElementById('passwordInput');
+
+    toggleBtn.addEventListener('click', () => {
+      const isPassword = passwordInput.type === 'password';
+      passwordInput.type = isPassword ? 'text' : 'password';
+
+      toggleIcon.classList.toggle('bi-eye');
+      toggleIcon.classList.toggle('bi-eye-slash');
+    });
+    const disabled = document.querySelectorAll('.disabled'),
+        makeChanges = document.getElementById('makeChanges'),
+        Cancel = document.getElementById('Cancel'),
+        form = document.getElementById('profileForm'),
+        saveChanges = document.getElementById('saveChanges')
+
+        makeChanges.addEventListener('click',()=>{
+            disabled.forEach(dis => {
+                dis.removeAttribute('disabled')
+            });
+
+            saveChanges.classList.remove('d-none')
+            Cancel.classList.remove('d-none')
+            makeChanges.classList.add('d-none')
+        })
+
+        Cancel.addEventListener('click', ()=>{
+
+            disabled.forEach((dis) =>{
+                dis.setAttribute('disabled', 'true')
+            })
+            
+            saveChanges.classList.add('d-none')
+            Cancel.classList.add('d-none')
+            makeChanges.classList.remove('d-none')
+            form.reset()
+        })
+</script>
+</body>
+</html>
