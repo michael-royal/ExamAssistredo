@@ -1,4 +1,9 @@
 // Combined AI Chatbot Logic
+
+const BASE_URL = window.location.hostname === 'localhost'
+  ? 'http://localhost:8080'
+  : 'https://examassist-eduservices.onrender.com/';
+
 class Chatbot {
   constructor() {
     this.chatBox = document.getElementById('chat-box');
@@ -102,7 +107,7 @@ this.chatBox.appendChild(botMsg);
     this.scrollToBottom();
 
     // Call backend (Gemini 2.5 Flash model should be handled server-side)
-    const response = await fetch('http://localhost:8080/chatBot', {
+    const response = await fetch(`${BASE_URL}/chatBot`, {
       method: 'POST',
       body: formData,
     });
